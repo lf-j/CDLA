@@ -12,6 +12,14 @@
         <seg>コミュニティデータ ライセンス契約書－互恵共有用－第１版</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the Community Data License Agreement–Sharing, Version 1.0&lt;t0/&gt; &lt;t1/&gt;(“Agreement”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171121T065746Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
+        <seg>これは、コミュニティデータ ライセンス契約書－互恵共有用－第１版です。&lt;t0/&gt; &lt;t1/&gt;(「契約」)</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
