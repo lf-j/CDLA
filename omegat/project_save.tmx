@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
+        <seg>上記に従い、「データ提供者」と「あなた」  ( 「当事者」 ) は、以下を合意するものとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Community Data License Agreement -Permissive-Version 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T004228Z" creationid="Takashi　Kunai" creationdate="20171122T003915Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T042821Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
         <seg>本「契約」の下に、「データ」は、それぞれの「データ提供者」から、「あなた」提供されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 1.&lt;t0/&gt;　&lt;t1/&gt;Definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054334Z" creationid="Takashi　Kunai" creationdate="20171122T054334Z">
+        <seg>第一節&lt;t0/&gt;　&lt;t1/&gt;諸定義</seg>
       </tuv>
     </tu>
     <tu>
