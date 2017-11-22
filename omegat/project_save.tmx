@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T055714Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身、あるいは、他の誰かの「データ」を増補することを意味し、結果として「あなた」の「追加物」を形成します。「追加物」は、後記の「結果物」を含みません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
