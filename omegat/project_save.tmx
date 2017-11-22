@@ -44,6 +44,14 @@
         <seg>これは、&lt;t0/&gt;&lt;t1/&gt;コミュニティデータ ライセンス契約書－寛容型－第1.0版&lt;t2/&gt;&lt;t3/&gt;(「契約」)です。本日本語版は、参考訳です。契約としては、英原文のみが有効です。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T043922Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
+        <seg>下記で認められた権利、および許諾の何らかのものを「あなた」が行使すると、「あなた」は本「契約」の諸条件に縛られることを受け入れ、同意したものとみなされます。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
