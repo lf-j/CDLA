@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Community Data License Agreement -Permissive-Version 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T003915Z" creationid="Takashi　Kunai" creationdate="20171122T003915Z">
+        <seg>コミュニティデータ ライセンス契約書 -寛容型-第1.0版koreha,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Community Data License Agreement -Sharing-Version 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171121T065400Z" creationid="Takashi　Kunai" creationdate="20171121T065151Z">
