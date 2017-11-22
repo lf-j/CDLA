@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>Community Data License Agreement -Permissive-Version 1.0</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T003915Z" creationid="Takashi　Kunai" creationdate="20171122T003915Z">
-        <seg>コミュニティデータ ライセンス契約書 -寛容型-第1.0版koreha,</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T004228Z" creationid="Takashi　Kunai" creationdate="20171122T003915Z">
+        <seg>コミュニティデータ ライセンス契約書－寛容型－第1.0版</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171121T065746Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
         <seg>これは、コミュニティデータ ライセンス契約書－互恵共有用－第１版です。&lt;t0/&gt; &lt;t1/&gt;(「契約」)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the&lt;t0/&gt;　&lt;t1/&gt;Community Data License Agreement –Permissive, Version 1.0&lt;t2/&gt;　&lt;t3/&gt;(“Agreement”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T004120Z" creationid="Takashi　Kunai" creationdate="20171122T003957Z">
+        <seg>これは、&lt;t0/&gt;&lt;t1/&gt;Community Data License Agreement –Permissive, Version 1.0&lt;t2/&gt;　&lt;t3/&gt;(“Agreement”).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
