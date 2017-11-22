@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;“Data” means the information (including copyrightable information, such as images or&lt;t2/&gt;　&lt;t3/&gt;text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T062336Z" creationid="Takashi　Kunai" creationdate="20171122T062336Z">
+        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;「データ」とは、を意味します。means the information (including copyrightable information, such as images or&lt;t2/&gt;　&lt;t3/&gt;text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
         <seg>上記に従い、「データ提供者」と「あなた」  ( 「当事者」 ) は、以下を合意するものとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By way of example and not limitation, “Computational Use” includes the application of any computational analytical technique, the purpose of which is the analysis of&lt;t4/&gt;　&lt;t5/&gt;any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T062217Z" creationid="Takashi　Kunai" creationdate="20171122T062217Z">
+        <seg>例として、「コンピュータ利用」には、コンピュータを使った分析技術の応用が含まれ、その目的は、デジタルな形式の「データ」を分析し、「データ」に関するパターン、傾向、相互関係、推論、省察、さらには、属性のような情報を生成することを含みますが、これらに限定されるものではありません。&lt;t4/&gt;&lt;t5/&gt;						</seg>
       </tuv>
     </tu>
     <tu>
