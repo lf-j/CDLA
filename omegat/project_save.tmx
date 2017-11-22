@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;“Data Provider” means any Entity&lt;t2/&gt;　&lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt;　&lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt;　&lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt;　&lt;t9/&gt;prior to Your Receiving it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T081736Z" creationid="Takashi　Kunai" creationdate="20171122T081736Z">
+        <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;「データ提供者」とは、を意味します。any Entity&lt;t2/&gt;　&lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt;　&lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt;　&lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt;　&lt;t9/&gt;prior to Your Receiving it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
