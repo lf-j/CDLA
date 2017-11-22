@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T055714Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
-        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身、あるいは、他の誰かの「データ」を増補することを意味し、結果として「あなた」の「追加物」を形成します。「追加物」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T075212Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加物」を形成します。「追加物」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T055907Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
-        <seg>本「契約」を結ぶにあたり、本諸条件のもとで「データ提供者」が「データ」を利用できるようにすることによって受ける恩恵、および、「あなた」が「データ」から受けたり、その他の恩恵に十分に考慮を払ったものとみなされます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T075035Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
+        <seg>本「契約」を結ぶにあたり、これらの条件のもとで「データ提供者」が「データ」を利用できるようにすることによって受ける恩恵、および、「あなた」が「データ」から受ける、あるいはその他の恩恵に関して十分に考慮を払ったものとみなされます。</seg>
       </tuv>
     </tu>
     <tu>
