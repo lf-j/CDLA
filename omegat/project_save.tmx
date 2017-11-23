@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>Data is provided to You under this Agreement by each of the Data Providers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T042821Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
-        <seg>本「契約」の下に、「データ」は、それぞれの「データ提供者」から、「あなた」提供されます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070515Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
+        <seg>本「契約」の下に、「データ」は、それぞれの「データ提供者」から、「あなた」に提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T011310Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
-        <seg>本「契約」を結ぶにあたり、「データ提供者」が「データ」を利用できるようにすることによって受ける恩恵、および、これらの条件のもとで「あなた」が「データ」から受ける、あるいはその他の形の恩恵に関して十分に考慮を払ったものとみなされます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070612Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
+        <seg>本「契約」を結ぶにあたり、「データ提供者」が「データ」を利用できるようにすることによって受ける恩恵、および、これらの条件のもとで「あなた」が「データ」から受ける、あるいはその他の恩恵に対して十分に考慮を払ったものとみなされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T074859Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
-        <seg>下記で認められた権利、および許諾のいずれかのものを「あなた」が行使すると、「あなた」は本「契約」の諸条件に束縛されることを容認し、同意したものとみなされます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070422Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
+        <seg>下記で認められた権利、および許諾のいずれかを「あなた」が行使すると、「あなた」は本「契約」の諸条件に束縛されることを容認し、同意したものとみなされます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
