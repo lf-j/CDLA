@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt;　&lt;t3/&gt;files; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T232637Z" creationid="Takashi　Kunai" creationdate="20171123T232621Z">
+        <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;「あなた」は、「拡張データ」ganomust cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt;　&lt;t3/&gt;files; and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;“Receive” or “Receives” means to have been given access&lt;t2/&gt;　&lt;t3/&gt;to Data, locally or remotely.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T053229Z" creationid="Takashi　Kunai" creationdate="20171123T053229Z">
