@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t0/&gt;　&lt;t1/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T072937Z" creationid="Takashi　Kunai" creationdate="20171123T072937Z">
-        <seg>本「契約」の第3節に規定された諸条件に従うことにより、「データ提供者」は「あなた」に対して、 (a) 「データ」の「使用」、および、 (b) 「データ」の「公開」に関して、全世界における、非独占的で、( 第5節の規定を例外として ) 取り消すことのない権利をここに認めます。&lt;t0/&gt;&lt;t1/&gt;	</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T080136Z" creationid="Takashi　Kunai" creationdate="20171123T072937Z">
+        <seg>本「契約」の第3節に規定された諸条件に従うこと前提に、「データ提供者」は「あなた」に対して、 (a) 「データ」の「使用」、および、 (b) 「データ」の「公開」に関して、全世界における、非独占的で、( 第5節の規定を例外として ) 取り消すことのない権利をここに認めます。&lt;t0/&gt;&lt;t1/&gt;	</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T004701Z" creationid="Takashi　Kunai" creationdate="20171122T003957Z">
         <seg>これは、&lt;t0/&gt;&lt;t1/&gt;コミュニティデータ ライセンス契約書－寛容型－第1.0版&lt;t2/&gt;&lt;t3/&gt;(「契約」)です。本日本語版は、参考訳です。契約としては、英原文のみが有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui&lt;t0/&gt;　&lt;t1/&gt;Generis Database Rights,&lt;t2/&gt;　&lt;t3/&gt;or other law, Data &lt;t4/&gt;Provider(s) further agree(s) that such&lt;t5/&gt;　&lt;t6/&gt;Data or&lt;t7/&gt;　&lt;t8/&gt;coordination, selection or arrangement is hereby licensed to You and to anyone else who&lt;t9/&gt;　&lt;t10/&gt;Receives&lt;t11/&gt;　&lt;t12/&gt;Data under this Agreement for Use and Publication,&lt;t13/&gt;　&lt;t14/&gt;subject to&lt;t15/&gt;　&lt;t16/&gt;the conditions set forth in Section 3 of this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T080107Z" creationid="Takashi　Kunai" creationdate="20171123T080107Z">
+        <seg>「データ」、あるいは、「データ」の連携・選択・配列は、著作権、「独自法によるデータベースの権利」、あるいは、その他の法令のもとに保護されており、また、保護可能であるのと同程度において、「データ提供者」は、本「契約」の第3節に規定された諸条件に従うことにより、「あなた」および本「契約」のもとに「データ」を「受領する」他の誰にに対しても、「使用」および「公開」&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt; further agree(s) that such&lt;t5/&gt;　&lt;t6/&gt;Data or&lt;t7/&gt;　&lt;t8/&gt;coordination, selection or arrangement is hereby licensed to You and to anyone else who&lt;t9/&gt;　&lt;t10/&gt;Receives&lt;t11/&gt;　&lt;t12/&gt;Data under this Agreement for Use and Publication,&lt;t13/&gt;　&lt;t14/&gt;subject to&lt;t15/&gt;　&lt;t16/&gt;the conditions set forth in Section 3 of this Agreement.</seg>
       </tuv>
     </tu>
     <tu>
