@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.12&lt;t0/&gt;　&lt;t1/&gt;“Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights&lt;t2/&gt;　&lt;t3/&gt;anywhere in the world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T061546Z" creationid="Takashi　Kunai" creationdate="20171123T061546Z">
+        <seg>1.12&lt;t0/&gt;　&lt;t1/&gt;「独自法によるデータベースの権利」とは、欧州議会、および、データベースの法的保護に関する1996年3月11日の評議会が規定したディレクティブ96/9/ECによってもたらされた著作権とは別の権利を意味します。同ディレクティブの修正・継承や、世界のどこであろうとそれと同等の諸権限も包含します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045042Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
