@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.9&lt;t0/&gt;　&lt;t1/&gt;“Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T050648Z" creationid="Takashi　Kunai" creationdate="20171123T050648Z">
+        <seg>1.9&lt;t0/&gt;　&lt;t1/&gt;「公開する」とは、「データ」の全体、あるいは、サブセット( 「あなた」の「拡張データ」を含めて )を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
