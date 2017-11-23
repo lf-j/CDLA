@@ -88,16 +88,16 @@
       <tuv lang="EN-US">
         <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;“Entity”&lt;t2/&gt;　&lt;t3/&gt;means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.&lt;t4/&gt;　&lt;t5/&gt;For the purposes of this definition, “control”&lt;t6/&gt;　&lt;t7/&gt;means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares&lt;t8/&gt;　&lt;t9/&gt;or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T041833Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
-        <seg>.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され、その国の法令のものに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールの下に置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配、 (b) 発行済株式、あるいは、社債の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利として「エンティティ」役員の過半数を指名できる権限を意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071034Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
+        <seg>.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され、その国の法令のものに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールの下に置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配力、 (b) 発行済株式、あるいは、社債の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利によって「エンティティ」役員の過半数を指名できる権限を意味します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.7&lt;t0/&gt;　&lt;t1/&gt;“Ledger” means a digital record of Data or grants of rights in Data governed by this Agreement, using any&lt;t2/&gt;　&lt;t3/&gt;technology having functionality to record and store Data or grants, contributions, or&lt;t4/&gt;　&lt;t5/&gt;licenses to Data governed by this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045237Z" creationid="Takashi　Kunai" creationdate="20171123T041200Z">
-        <seg>1.7&lt;t0/&gt;　&lt;t1/&gt;「電子元帳」とは、本「契約」の対象となる「データ」の、あるいは、「データ」に対する権利許諾の電子的な記録を意味します。本「契約」の対象となる「データ」そのもの、あるいは、「データ」に対する許諾、貢献、ライセンスの履歴を記録・保存する機能を有する技術が使われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071122Z" creationid="Takashi　Kunai" creationdate="20171123T041200Z">
+        <seg>1.7&lt;t0/&gt;　&lt;t1/&gt;「電子台帳」とは、本「契約」の対象となる「データ」の、あるいは、「データ」に対する権利許諾の電子的な記録を意味します。本「契約」の対象となる「データ」そのもの、あるいは、「データ」に対する許諾、貢献、ライセンスの履歴を記録・保存する機能を有する技術が使われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>For any form of Entity, that is to make the Data available to&lt;t2/&gt;　&lt;t3/&gt;any individual who is not employed by that Entity&lt;t4/&gt;　&lt;t5/&gt;or engaged as a contractor or agent to perform work on that Entity’s behalf.&lt;t6/&gt;　&lt;t7/&gt;A “Publication”&lt;t8/&gt;　&lt;t9/&gt;occurs each time You Publish Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T052629Z" creationid="Takashi　Kunai" creationdate="20171123T052345Z">
-        <seg>どのような「エンティティ」であろうと、これは「データ」が、当該「エンティティ」に雇用されていない、あるいは、「エンティティ」の契約者やエージェントとして関わっていない個人に利用可能となります。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「公開」は、&lt;t8/&gt;&lt;t9/&gt;「あなた」が「データ」を「公開する」度に行われます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071237Z" creationid="Takashi　Kunai" creationdate="20171123T052345Z">
+        <seg>どのような「エンティティ」であろうと、これは「データ」が、当該「エンティティ」に雇用されていない、あるいは、「エンティティ」の契約者やエージェントとして関わっていない個人に利用可能となることを意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「公開」は、&lt;t8/&gt;&lt;t9/&gt;「あなた」が「データ」を「公開する」度に行われます。</seg>
       </tuv>
     </tu>
     <tu>
