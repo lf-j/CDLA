@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 3.&lt;t0/&gt;　&lt;t1/&gt;Conditions on Rights Granted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T083725Z" creationid="Takashi　Kunai" creationdate="20171123T083725Z">
+        <seg>第3節&lt;t0/&gt;　&lt;t1/&gt;許諾される諸権利の条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t0/&gt;　&lt;t1/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T080136Z" creationid="Takashi　Kunai" creationdate="20171123T072937Z">
