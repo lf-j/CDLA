@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013136Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
-        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部分」を形成します。「追加物」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013436Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部分」を形成します。「追加部分」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,16 @@
       <tuv lang="EN-US">
         <seg>1.5&lt;t0/&gt;　&lt;t1/&gt;“Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013117Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
-        <seg>[1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」の下に受領した「データ」に対して行われた「あなた」の (a)「追加部分」、および、 (b) 「変更部分」をなす「データ」のサブセットを意味します。the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013203Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
+        <seg>[1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」の下に受領した「データ」に対して行われた「あなた」の (a)「追加部分」、および、 (b) 「変更部分」をなす「データ」のサブセットを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;“Entity”&lt;t2/&gt;　&lt;t3/&gt;means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.&lt;t4/&gt;　&lt;t5/&gt;For the purposes of this definition, “control”&lt;t6/&gt;　&lt;t7/&gt;means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares&lt;t8/&gt;　&lt;t9/&gt;or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013412Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
+        <seg>.6&lt;t0/&gt;　&lt;t1/&gt;“Entity”&lt;t2/&gt;　&lt;t3/&gt;means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.&lt;t4/&gt;　&lt;t5/&gt;For the purposes of this definition, “control”&lt;t6/&gt;　&lt;t7/&gt;means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares&lt;t8/&gt;　&lt;t9/&gt;or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.</seg>
       </tuv>
     </tu>
     <tu>
