@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.13&lt;t0/&gt;　&lt;t1/&gt;“Use” means using Data&lt;t2/&gt;　&lt;t3/&gt;(including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it),&lt;t4/&gt;　&lt;t5/&gt;either by machines or humans, or a combination of both.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T062453Z" creationid="Takashi　Kunai" creationdate="20171123T062453Z">
+        <seg>1.13&lt;t0/&gt;　&lt;t1/&gt;「使用」とは、コンピュータ装置による、あるいは、人による、さらには両社の組み合わせによる「データ」の使用を意味し、アクセス、コピー、研究、レビュー、適合化、分析、評価、「コンピュータ利用」に供することを含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.14&lt;t0/&gt;　&lt;t1/&gt;“You”&lt;t2/&gt;　&lt;t3/&gt;or “Your”&lt;t4/&gt;　&lt;t5/&gt;means any Entity that Receives Data under this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T062512Z" creationid="Takashi　Kunai" creationdate="20171123T062512Z">
+        <seg>1.14&lt;t0/&gt;　&lt;t1/&gt;「あなた」とは、を意味します。&lt;t2/&gt;　&lt;t3/&gt;or “Your”&lt;t4/&gt;　&lt;t5/&gt;means any Entity that Receives Data under this Agreement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045042Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
