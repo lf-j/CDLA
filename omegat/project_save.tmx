@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;“Data” means the information (including copyrightable information, such as images or&lt;t2/&gt;　&lt;t3/&gt;text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T011726Z" creationid="Takashi　Kunai" creationdate="20171122T062336Z">
-        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;「データ」とは、集合としての、もしくは、個別の情報 (画像やテキストのような著作権保護される情報を含む) を意味します。それらは、「データ提供者」、あるいは、「データ提供者」のために活動する「エンティティ」によって作られた、あるいは、集められたものであり、それらに関する諸権利が、本「契約」の下に許諾されます。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045126Z" creationid="Takashi　Kunai" creationdate="20171122T062336Z">
+        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;「データ」とは、集合としての、もしくは、個別の情報 ( 画像やテキストのような著作権保護される情報を含む ) を意味します。それらは、「データ提供者」、あるいは、「データ提供者」のために活動する「エンティティ」によって作られた、あるいは、集められたものであり、それらに関する諸権利が、本「契約」の下に許諾されます。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>1.5&lt;t0/&gt;　&lt;t1/&gt;“Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T014234Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
-        <seg>[1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」の下に受領した「データ」に対する「あなた」の (a)「追加部分」、および、 (b) 「変更部分」に該当する「データ」のサブセットを意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045156Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
+        <seg>[1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」の下に受領した「データ」に対する「あなた」の (a)「追加部」、および、 (b) 「変更部」に該当する「データ」のサブセットを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,16 +56,16 @@
       <tuv lang="EN-US">
         <seg>1.7&lt;t0/&gt;　&lt;t1/&gt;“Ledger” means a digital record of Data or grants of rights in Data governed by this Agreement, using any&lt;t2/&gt;　&lt;t3/&gt;technology having functionality to record and store Data or grants, contributions, or&lt;t4/&gt;　&lt;t5/&gt;licenses to Data governed by this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T044108Z" creationid="Takashi　Kunai" creationdate="20171123T041200Z">
-        <seg>ennteliteliruiha,1.7&lt;t0/&gt;　&lt;t1/&gt;「電子元帳」とは、本「契約」の対象となる「データ」の、あるいは、「データ」に対する権利許諾の電子的な記録を意味します。本「契約」の対象となる「データ」そのもの、あるいは、「データ」に対する許諾、貢献、ライセンスの履歴を記録・保存する機能を有する技術が使われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045237Z" creationid="Takashi　Kunai" creationdate="20171123T041200Z">
+        <seg>1.7&lt;t0/&gt;　&lt;t1/&gt;「電子元帳」とは、本「契約」の対象となる「データ」の、あるいは、「データ」に対する権利許諾の電子的な記録を意味します。本「契約」の対象となる「データ」そのもの、あるいは、「データ」に対する許諾、貢献、ライセンスの履歴を記録・保存する機能を有する技術が使われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt;　&lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt;　&lt;t5/&gt;Modifications do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T044958Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
-        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更する」とは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後述の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045304Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
+        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更する」とは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
