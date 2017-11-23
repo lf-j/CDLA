@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T013436Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
-        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部分」を形成します。「追加部分」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045042Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T044108Z" creationid="Takashi　Kunai" creationdate="20171123T041200Z">
         <seg>ennteliteliruiha,1.7&lt;t0/&gt;　&lt;t1/&gt;「電子元帳」とは、本「契約」の対象となる「データ」の、あるいは、「データ」に対する権利許諾の電子的な記録を意味します。本「契約」の対象となる「データ」そのもの、あるいは、「データ」に対する許諾、貢献、ライセンスの履歴を記録・保存する機能を有する技術が使われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt;　&lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt;　&lt;t5/&gt;Modifications do not include Results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T044958Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
+        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更する」とは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後述の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
