@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T083503Z" creationid="Takashi　Kunai" creationdate="20171123T083503Z">
+        <seg>明に認められた諸権利、およびライセンスを除いて、いかなる知的財産権も許諾されないし、意味されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For any form of Entity, that is to make the Data available to&lt;t2/&gt;　&lt;t3/&gt;any individual who is not employed by that Entity&lt;t4/&gt;　&lt;t5/&gt;or engaged as a contractor or agent to perform work on that Entity’s behalf.&lt;t6/&gt;　&lt;t7/&gt;A “Publication”&lt;t8/&gt;　&lt;t9/&gt;occurs each time You Publish Data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071237Z" creationid="Takashi　Kunai" creationdate="20171123T052345Z">
