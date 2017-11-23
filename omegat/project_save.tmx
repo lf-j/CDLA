@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>1.14&lt;t0/&gt;　&lt;t1/&gt;“You”&lt;t2/&gt;　&lt;t3/&gt;or “Your”&lt;t4/&gt;　&lt;t5/&gt;means any Entity that Receives Data under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T062512Z" creationid="Takashi　Kunai" creationdate="20171123T062512Z">
-        <seg>1.14&lt;t0/&gt;　&lt;t1/&gt;「あなた」とは、を意味します。&lt;t2/&gt;　&lt;t3/&gt;or “Your”&lt;t4/&gt;　&lt;t5/&gt;means any Entity that Receives Data under this Agreement.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T062658Z" creationid="Takashi　Kunai" creationdate="20171123T062512Z">
+        <seg>1.14&lt;t0/&gt;　&lt;t1/&gt;「あなた」とは、本「契約」に基づいて「データ」を「受領」した「エンティティ」を意味します。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
