@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t0/&gt;　&lt;t1/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T072937Z" creationid="Takashi　Kunai" creationdate="20171123T072937Z">
+        <seg>本「契約」の第3節に規定された諸条件に従うことにより、「データ提供者」は「あなた」に対して、 (a) 「データ」の「使用」、および、 (b) 「データ」の「公開」に関して、全世界における、非独占的で、( 第5節の規定を例外として ) 取り消すことのない権利をここに認めます。&lt;t0/&gt;&lt;t1/&gt;	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070612Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
