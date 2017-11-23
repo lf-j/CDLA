@@ -166,10 +166,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right and License to Use and to Publish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071746Z" creationid="Takashi　Kunai" creationdate="20171123T071746Z">
+        <seg>「使用」および「公開」に対する権利とライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 1.&lt;t0/&gt;　&lt;t1/&gt;Definitions</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054334Z" creationid="Takashi　Kunai" creationdate="20171122T054334Z">
-        <seg>第一節&lt;t0/&gt;　&lt;t1/&gt;諸定義</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071619Z" creationid="Takashi　Kunai" creationdate="20171122T054334Z">
+        <seg>第1節&lt;t0/&gt;　&lt;t1/&gt;諸定義</seg>
       </tuv>
     </tu>
     <tu>
