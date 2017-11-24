@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>(c)&lt;t0/&gt;　&lt;t1/&gt;If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s).&lt;t2/&gt;　&lt;t3/&gt;Such retained credit or attribution includes any of the following to the extent they exist in Data as You &lt;t4/&gt;have&lt;t5/&gt; Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T060817Z" creationid="Takashi　Kunai" creationdate="20171123T234022Z">
-        <seg>(c)&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「あなた」が「公開」するならば、「あなた」は、「データ提供者」に対するクレディットや帰属表示を保持したままにしておかなければなりません。&lt;t2/&gt;&lt;t3/&gt;そのようなクレディットや帰属表示は、「あなた」が「受領」したときに「データ」の中で存在していた程度において。以下に示すもののいずれかです。Such retained credit or attribution includes any of the following to the extent they exist in Data as You &lt;t4/&gt;have&lt;t5/&gt; Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T062418Z" creationid="Takashi　Kunai" creationdate="20171123T234022Z">
+        <seg>(c)&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「あなた」が「公開」するならば、「あなた」は、「データ提供者」に対するクレディットや帰属表示を保持したままにしておかなければなりません。&lt;t2/&gt;&lt;t3/&gt;そのようなクレディットや帰属表示は、「あなた」が「受領」したときに「データ」の中で存在していたもので、以下のいずれかです。&lt;t4/&gt;&lt;t5/&gt;法務的な告知、ないしは、メタデータ、「データ提供者」の識別情報、あるいは、「データ」に対するハイパーリンク ( 実際上実行可能なら )。</seg>
       </tuv>
     </tu>
     <tu>
