@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.4&lt;t0/&gt;　&lt;t1/&gt;You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T081547Z" creationid="Takashi　Kunai" creationdate="20171124T081547Z">
+        <seg>3.4&lt;t0/&gt;　&lt;t1/&gt;「あなた」、および、各「データ提供者」は「拡張データ」が、本「契約」のもとライセンスされた「データ」との関係のおかげで共同著作物とみなさることがないということ、また、「データ提供者」にについて何らかの説明の義務を負ったり、「データ提供者」の同意を得たりすることを要しないことに合意します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
