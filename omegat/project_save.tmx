@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Provider(s)’ Representations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T082006Z" creationid="Takashi　Kunai" creationdate="20171124T082006Z">
+        <seg>「データ提供者」の表明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data is provided to You under this Agreement by each of the Data Providers.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070515Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T081821Z" creationid="Takashi　Kunai" creationdate="20171124T081821Z">
+        <seg>第4節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t0/&gt;　&lt;t1/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T080136Z" creationid="Takashi　Kunai" creationdate="20171123T072937Z">
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070612Z" creationid="Takashi　Kunai" creationdate="20171122T050325Z">
         <seg>本「契約」を結ぶにあたり、「データ提供者」が「データ」を利用できるようにすることによって受ける恩恵、および、これらの条件のもとで「あなた」が「データ」から受ける、あるいはその他の恩恵に対して十分に考慮を払ったものとみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Agreement imposes no obligations or restrictions on Your Use or Publication of Results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T081803Z" creationid="Takashi　Kunai" creationdate="20171124T081803Z">
+        <seg>本「契約」は、「あなた」の「使用」、あるいは、「結果物」の」公開」に対して、いかなる義務も制約も課すことはありません。</seg>
       </tuv>
     </tu>
     <tu>
