@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record&lt;t0/&gt;　&lt;t1/&gt;the Data or grants of rights in Data in the Ledger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T062808Z" creationid="Takashi　Kunai" creationdate="20171124T062808Z">
+        <seg>「あなた」は、制限したり、妨げたりすることはできません。You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record&lt;t0/&gt;　&lt;t1/&gt;the Data or grants of rights in Data in the Ledger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070422Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
