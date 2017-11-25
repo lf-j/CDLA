@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt;　&lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T084804Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
+        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明確に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供されます。いかなる保証、IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
