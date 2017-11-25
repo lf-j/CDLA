@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t0/&gt; &lt;t1/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t2/&gt; &lt;t3/&gt;as of the date such litigation is filed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T015913Z" creationid="Takashi　Kunai" creationdate="20171125T015913Z">
+        <seg>もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかに対して、本「契約」に対する違反を訴えるもの以外の訴訟 ( 交差請求を含む ) をおこすと、If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t0/&gt; &lt;t1/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t2/&gt; &lt;t3/&gt;as of the date such litigation is filed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If&lt;t0/&gt;　&lt;t1/&gt;You Publish Data You Receive&lt;t2/&gt;　&lt;t3/&gt;or Enhanced Data:&lt;t4/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T084227Z" creationid="Takashi　Kunai" creationdate="20171123T084227Z">
