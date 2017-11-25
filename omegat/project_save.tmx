@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t0/&gt; &lt;t1/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t2/&gt; &lt;t3/&gt;as of the date such litigation is filed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T044728Z" creationid="Takashi　Kunai" creationdate="20171125T015913Z">
-        <seg>もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかに対して訴訟 ( 交差請求を含む ) をおこすと、本「契約」の不履行確認を訴因とするもの除き、「あなた」に、If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t0/&gt; &lt;t1/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t2/&gt; &lt;t3/&gt;as of the date such litigation is filed.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T083112Z" creationid="Takashi　Kunai" creationdate="20171125T015913Z">
+        <seg>もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかを提訴 ( 交差請求訴訟を含む ) すると、本「契約」の不履行確認を訴因とするもの除き、本「契約」に基づいて「あなた」に認められていた「データ」を「受領」、「使用」、「公開」する権利は、提訴が提出された日をもって終了する。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T011513Z" creationid="Takashi　Kunai" creationdate="20171125T011513Z">
         <seg>第5節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T083124Z" creationid="Takashi　Kunai" creationdate="20171125T083124Z">
+        <seg>第6節</seg>
       </tuv>
     </tu>
     <tu>
