@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt;　&lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T084804Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
-        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明確に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供されます。いかなる保証、IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171126T071413Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
+        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件充足を伴っていません。それらの中には、特別の名称を名乗ること、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件充足が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
