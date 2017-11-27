@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>Data is provided to You under this Agreement by each of the Data Providers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070515Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
-        <seg>本「契約」の下に、「データ」は、それぞれの「データ提供者」から、「あなた」に提供されます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T074742Z" creationid="Takashi　Kunai" creationdate="20171122T042307Z">
+        <seg>「データ」は、それぞれの「データ提供者」から、「あなた」対して、本「契約」に基づいて提供されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>This is the Community Data License Agreement–Sharing, Version 1.0&lt;t0/&gt; &lt;t1/&gt;(“Agreement”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T074500Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
-        <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版です&lt;t0/&gt; &lt;t1/&gt;(「契約」)。この日本語版は参考訳です。契約書の有効性は英語版にあります。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T074641Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
+        <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版です&lt;t0/&gt; &lt;t1/&gt;(「契約」)。この日本語版は参考訳です。契約書としては英語版のみが有効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,8 +456,8 @@
       <tuv lang="EN-US">
         <seg>Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070422Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
-        <seg>下記で認められた権利、および許諾のいずれかを「あなた」が行使すると、「あなた」は本「契約」の諸条件に束縛されることを容認し、同意したものとみなされます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T074816Z" creationid="Takashi　Kunai" creationdate="20171122T043922Z">
+        <seg>下記で認められた諸権利、および許諾のいずれかを「あなた」が行使すると、「あなた」は本「契約」の諸条件に束縛されることを容認し、同意したものとみなされます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
