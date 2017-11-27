@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>All of Your rights under this Agreement will&lt;t0/&gt;　&lt;t1/&gt;terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified&lt;t2/&gt;　&lt;t3/&gt;if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such &lt;t4/&gt;noncompliance.&lt;t5/&gt;　&lt;t6/&gt;If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data.&lt;t7/&gt;　&lt;t8/&gt;However, Your obligations and any rights and permissions granted by You under&lt;t9/&gt;　&lt;t10/&gt;this Agreement relating to Data that You Published prior to such termination will&lt;t11/&gt;　&lt;t12/&gt;continue and survive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T003800Z" creationid="Takashi　Kunai" creationdate="20171125T014520Z">
-        <seg>もしも「あなた」が本「契約」の諸条件に実質的に準拠することができず、かつ、「あなた」がそのような準拠違反に気付いてから合理的な日数内に違反を矯正できなかったとき、本「契約」に基づく「あなた」のすべての権利は終了し、&lt;t0/&gt;&lt;t1/&gt;かつ、「データ」を「受領」、「使用」、「公開」する「あなた」の権利は取り消され、あるいは、変更されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;本「契約」に基づく「あなた」の権利が終了すると、「あなた」は、「データ」を「受領」、「使用」、「公開」することを停止することに合意するものとします。&lt;t7/&gt;&lt;t8/&gt;しかしながら、そのような終了よりも以前に「あなた」が「公開」した「データ」に関連した「あなた」の義務、および、本「契約」のもとで「あなた」によって認められた権利と許可は継続し、残り続けます。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T035704Z" creationid="Takashi　Kunai" creationdate="20171125T014520Z">
+        <seg>もしも「あなた」が本「契約」の諸条件に実質的に準拠することができず、かつ、「あなた」がそのような準拠違反に気付いてから合理的な日数内に違反を是正できなかったとき、本「契約」に基づく「あなた」のすべての権利は終了し、&lt;t0/&gt;&lt;t1/&gt;かつ、「データ」を「受領」、「使用」、「公開」する「あなた」の権利は取り消され、あるいは、変更されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;本「契約」に基づく「あなた」の権利が終了すると、「あなた」は、「データ」を「受領」、「使用」、「公開」することを停止することに合意するものとします。&lt;t7/&gt;&lt;t8/&gt;しかしながら、そのような終了よりも以前に「あなた」が「公開」した「データ」に関連した「あなた」の義務、および、本「契約」のもとで「あなた」によって認められた権利と許可は継続し、残り続けます。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t0/&gt; &lt;t1/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t2/&gt; &lt;t3/&gt;as of the date such litigation is filed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T083112Z" creationid="Takashi　Kunai" creationdate="20171125T015913Z">
-        <seg>もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかを提訴 ( 交差請求訴訟を含む ) すると、本「契約」の不履行確認を訴因とするもの除き、本「契約」に基づいて「あなた」に認められていた「データ」を「受領」、「使用」、「公開」する権利は、提訴が提出された日をもって終了する。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T035735Z" creationid="Takashi　Kunai" creationdate="20171125T015913Z">
+        <seg>もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかを提訴 ( 交差請求訴訟を含む ) すると、本「契約」の不履行確認を訴因とするもの除き、本「契約」に基づいて「あなた」に認められていた「データ」を「受領」、「使用」、「公開」する権利は、提訴が提出された日をもって終了します。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
