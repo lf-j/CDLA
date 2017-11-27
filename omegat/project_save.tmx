@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083138Z" creationid="Takashi　Kunai" creationdate="20171127T083138Z">
+        <seg>.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;If You Publish Data You Receive, You must do so&lt;t2/&gt;　&lt;t3/&gt;under an unmodified form of&lt;t4/&gt;　&lt;t5/&gt;this Agreement and include the text of &lt;t6/&gt;this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.&lt;t7/&gt;　&lt;t8/&gt;You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.&lt;t9/&gt;　&lt;t10/&gt;Notices that purport to modify this Agreement shall be of no effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T075837Z" creationid="Takashi　Kunai" creationdate="20171124T072215Z">
@@ -256,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T003435Z" creationid="Takashi　Kunai" creationdate="20171123T083503Z">
-        <seg>明示的に認められた諸権利、およびライセンスを除いて、いかなる知的財産権も認められていません、あるいは、読み取られるべきではありせん。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083131Z" creationid="Takashi　Kunai" creationdate="20171123T083503Z">
+        <seg>明示的に認められた諸権利、およびライセンスを除いて、他のいかなる知的財産権も認められていません、あるいは、読み取られるべきではありせん。</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +432,8 @@
       <tuv lang="EN-US">
         <seg>To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui&lt;t0/&gt;　&lt;t1/&gt;Generis Database Rights,&lt;t2/&gt;　&lt;t3/&gt;or other law, Data &lt;t4/&gt;Provider(s) further agree(s) that such&lt;t5/&gt;　&lt;t6/&gt;Data or&lt;t7/&gt;　&lt;t8/&gt;coordination, selection or arrangement is hereby licensed to You and to anyone else who&lt;t9/&gt;　&lt;t10/&gt;Receives&lt;t11/&gt;　&lt;t12/&gt;Data under this Agreement for Use and Publication,&lt;t13/&gt;　&lt;t14/&gt;subject to&lt;t15/&gt;　&lt;t16/&gt;the conditions set forth in Section 3 of this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T082941Z" creationid="Takashi　Kunai" creationdate="20171123T080107Z">
-        <seg>「データ」、あるいは、「データ」の連携・選択・配列が、著作権、「独自法によるデータベースの権利」、あるいは、その他の法令のもとに保護され、また、保護可能である範囲において、「データ提供者」は、本「契約」の第3節に規定された諸条件に従うこと前提に、当該「データ」、あるいは、同「データ」の連携・選択・配列が、「使用」および「公開」を目的に、「あなた」および本「契約」のもとに「データ」を「受領する」他の誰に対してもここにおいてライセンスされることをさらに同意するものとします。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T082926Z" creationid="Takashi　Kunai" creationdate="20171123T080107Z">
+        <seg>「データ」、あるいは、「データ」の連携・選択・配列が、著作権、「独自法によるデータベースの諸権利」、あるいは、その他の法令のもとに保護され、また、保護可能である範囲において、なおそのうえに「データ提供者」は、本「契約」の第3節に規定された諸条件に従うことを前提に、当該「データ」、あるいは、同「データ」の連携・選択・配列が、「あなた」および本「契約」のもとに「データ」を「受領」する他の誰に対しても、「使用」および「公開」を目的に、ここにライセンスされることを同意するものとします。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
