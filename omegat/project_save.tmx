@@ -88,24 +88,24 @@
       <tuv lang="EN-US">
         <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;“Data” means the information (including copyrightable information, such as images or&lt;t2/&gt;　&lt;t3/&gt;text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045126Z" creationid="Takashi　Kunai" creationdate="20171122T062336Z">
-        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;「データ」とは、集合としての、もしくは、個別の情報 ( 画像やテキストのような著作権保護される情報を含む ) を意味します。それらは、「データ提供者」、あるいは、「データ提供者」のために活動する「エンティティ」によって作られた、あるいは、集められたものであり、それらに関する諸権利が、本「契約」の下に許諾されます。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075908Z" creationid="Takashi　Kunai" creationdate="20171122T062336Z">
+        <seg>1.3&lt;t0/&gt;　&lt;t1/&gt;「データ」とは、集合としての、もしくは、個別の情報 ( 画像やテキストのような著作権保護される情報を含む ) を意味します。それらは、「データ提供者」、あるいは、「データ提供者」のために活動する「エンティティ」によって作られた、あるいは、集められたものであり、それらに関する諸権利が、本「契約」のもとで許諾されます。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;“Data Provider” means any Entity&lt;t2/&gt;　&lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt;　&lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt;　&lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt;　&lt;t9/&gt;prior to Your Receiving it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T083005Z" creationid="Takashi　Kunai" creationdate="20171122T081736Z">
-        <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」( そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます ) を意味します。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080001Z" creationid="Takashi　Kunai" creationdate="20171122T081736Z">
+        <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」 ( そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます ) を意味します。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.5&lt;t0/&gt;　&lt;t1/&gt;“Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045156Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
-        <seg>[1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」の下に受領した「データ」に対する「あなた」の (a)「追加部」、および、 (b) 「変更部」に該当する「データ」のサブセットを意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080043Z" creationid="Takashi　Kunai" creationdate="20171122T082154Z">
+        <seg>1.5&lt;t0/&gt;　&lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」のもとで受領した「データ」に対する「あなた」の (a)「追加部」、および、 (b) 「変更部」に該当する「データ」のサブセットを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>By way of example and not limitation, “Computational Use” includes the application of any computational analytical technique, the purpose of which is the analysis of&lt;t4/&gt;　&lt;t5/&gt;any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T070827Z" creationid="Takashi　Kunai" creationdate="20171122T062217Z">
-        <seg>例として、「コンピュータ利用」には、コンピュータを使った分析技術の応用が含まれ、その目的は、デジタル形式の「データ」を分析し、「データ」に関するパターン、傾向、相互関係、推論、考察、および、属性のような情報を生成することを含みますが、これらに限定されるものではありません。&lt;t4/&gt;&lt;t5/&gt;						</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075822Z" creationid="Takashi　Kunai" creationdate="20171122T062217Z">
+        <seg>例として、「コンピュータ利用」には、コンピュータ分析技術の応用が含まれ、その目的は、デジタル形式の「データ」を分析し、「データ」に関するパターン、傾向、相互関係、推論、考察、および、属性のような情報を生成することを含みますが、これらに限定されるものではありません。&lt;t4/&gt;&lt;t5/&gt;						</seg>
       </tuv>
     </tu>
     <tu>
