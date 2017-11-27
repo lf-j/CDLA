@@ -270,10 +270,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T012031Z" creationid="Takashi　Kunai" creationdate="20171127T012031Z">
+        <seg>雑則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T004203Z" creationid="Takashi　Kunai" creationdate="20171127T004203Z">
-        <seg>「データ」の「使用」、ないしは、頒布、あるいは、ここで認められた何らかの権利の行使NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T012006Z" creationid="Takashi　Kunai" creationdate="20171127T004203Z">
+        <seg>当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的、間接的、付随的、特異的、懲罰的、結果的な ( 逸失利益やそれ以外も含む) 損害に対して何らの賠償責任を負いません。いかに発生したか、また、責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 不注意やその他を含む ) ものかどうかを問いません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171125T083124Z" creationid="Takashi　Kunai" creationdate="20171125T083124Z">
         <seg>第6節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T012019Z" creationid="Takashi　Kunai" creationdate="20171127T012019Z">
+        <seg>第7節</seg>
       </tuv>
     </tu>
     <tu>
