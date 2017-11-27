@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt;　&lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171126T071413Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
-        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件充足を伴っていません。それらの中には、特別の名称を名乗ること、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件充足が含まれています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T085650Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
+        <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件充足を伴っていません。それらの中には、特別の名称を名乗ること、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件充足が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T012006Z" creationid="Takashi　Kunai" creationdate="20171127T004203Z">
-        <seg>当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的、間接的、付随的、特異的、懲罰的、結果的な ( 逸失利益やそれ以外も含む) 損害に対して何らの賠償責任を負いません。いかに発生したか、また、責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 不注意やその他を含む ) ものかどうかを問いません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T085726Z" creationid="Takashi　Kunai" creationdate="20171127T004203Z">
+        <seg>当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的、間接的、付随的、特異的、懲罰的、結果的な ( 逸失利益やそれ以外も含む) 損害に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 不注意やその他を含む ) ものかどうかを問いません。</seg>
       </tuv>
     </tu>
     <tu>
