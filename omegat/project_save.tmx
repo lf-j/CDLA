@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt;　&lt;t3/&gt;files; and</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T232949Z" creationid="Takashi　Kunai" creationdate="20171123T232621Z">
-        <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;「あなた」は、「拡張データ」が入った「データ」のファイルに、「あなた」がそれらの変更を実施したことを示す明瞭な告知を伴うようにしばければなりません、かつ、ganomust cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt;　&lt;t3/&gt;files; and</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083549Z" creationid="Takashi　Kunai" creationdate="20171123T232621Z">
+        <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;「あなた」は、「拡張データ」が入った「データ」のファイルに、「あなた」がそれらの変更を実施したことを示す明瞭な告知を伴うようにしなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;If You Publish Data You Receive, You must do so&lt;t2/&gt;　&lt;t3/&gt;under an unmodified form of&lt;t4/&gt;　&lt;t5/&gt;this Agreement and include the text of &lt;t6/&gt;this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.&lt;t7/&gt;　&lt;t8/&gt;You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.&lt;t9/&gt;　&lt;t10/&gt;Notices that purport to modify this Agreement shall be of no effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T075837Z" creationid="Takashi　Kunai" creationdate="20171124T072215Z">
-        <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」のテキストのコピー、本「契約」の名称、あるいは・および、ハイパーリンク、ないしは、本「契約」のテキストをコピーを提供するのに適切とみなされる方法の提示を含めなければなりません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;「あなた」は、本「契約」を修正したり、本「契約」のもとで認めらている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域のみに限定することが挙げられます。&lt;t9/&gt;&lt;t10/&gt;本「契約」の変更をの唱えるかのような告知は無効です。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083800Z" creationid="Takashi　Kunai" creationdate="20171124T072215Z">
+        <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文のコピー、本「契約」の名称、あるいは・および、ハイパーリンク、ないしは、本「契約」のテキストをコピーを提供するのに適切とみなされる方法の提示を含めなければなりません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;「あなた」は、本「契約」を修正したり、本「契約」のもとで認めらている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域のみに限定することが挙げられます。&lt;t9/&gt;&lt;t10/&gt;本「契約」の変更をの唱えるかのような告知は無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,8 +456,8 @@
       <tuv lang="EN-US">
         <seg>You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record&lt;t0/&gt;　&lt;t1/&gt;the Data or grants of rights in Data in the Ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T071329Z" creationid="Takashi　Kunai" creationdate="20171124T062808Z">
-        <seg>「あなた」は、だれであれ「データ」を「受領」する人が持つ次の権能を制限したり、妨げたりすることはできません。 (a) 「データ」を広くだれもがアクセスできるように「公開」すること、あるいは、 (b) もしもプロジェクトが、本「契約」に則り「データ」そのものや、「データ」に対する権利許諾の履歴を「電子台帳」を用いて記録していた場合、それらを「電子台帳」に記録すること。&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083618Z" creationid="Takashi　Kunai" creationdate="20171124T062808Z">
+        <seg>「あなた」は、だれであれ「データ」を「受領」する人が持つ次の権能を制限したり、妨げたりすることはできません。 (a) 「データ」を広くだれもがアクセスできるように「公開」すること、あるいは、 (b) もしもプロジェクトが、本「契約」に則り「データ」そのものや、「データ」に対する権利許諾の履歴を「電子台帳」を用いて記録している場合、それらを「電子台帳」に記録すること。&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
