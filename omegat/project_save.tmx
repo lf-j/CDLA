@@ -72,16 +72,16 @@
       <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045042Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
-        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身の、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075534Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;“Computational Use” means Your analysis&lt;t2/&gt;　&lt;t3/&gt;(through the use of computational devices or otherwise) or other interpretation of Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T060907Z" creationid="Takashi　Kunai" creationdate="20171122T060907Z">
-        <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;「コンピュータ利用」とは、「データ」に対する、(コンピュータ、あるいは、その他を使った)「あなた」の分析、または、その他の解釈を意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075648Z" creationid="Takashi　Kunai" creationdate="20171122T060907Z">
+        <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解釈を意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
