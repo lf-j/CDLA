@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;“Receive” or “Receives” means to have been given access&lt;t2/&gt;　&lt;t3/&gt;to Data, locally or remotely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T053229Z" creationid="Takashi　Kunai" creationdate="20171123T053229Z">
-        <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;「受領する」とは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080708Z" creationid="Takashi　Kunai" creationdate="20171123T053229Z">
+        <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;「受領」するとは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075534Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
-        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加する」とは、「あなた」自身、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080635Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
+        <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;「追加」するとは、「あなた」自身、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;“Entity”&lt;t2/&gt;　&lt;t3/&gt;means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.&lt;t4/&gt;　&lt;t5/&gt;For the purposes of this definition, “control”&lt;t6/&gt;　&lt;t7/&gt;means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares&lt;t8/&gt;　&lt;t9/&gt;or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T075608Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
-        <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され、その国の法令のものに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールの下に置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配力、 (b) 発行済株式、あるいは、社債の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利によって「エンティティ」役員の過半数を指名できる権限を意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080528Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
+        <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され当該国の法令のもとに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールのもとに置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配力、 (b) 発行済株式、あるいは、社債の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利の有無によらず、「エンティティ」役員の過半数を指名できる権限を意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>1.9&lt;t0/&gt;　&lt;t1/&gt;“Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T050648Z" creationid="Takashi　Kunai" creationdate="20171123T050648Z">
-        <seg>1.9&lt;t0/&gt;　&lt;t1/&gt;「公開する」とは、「データ」の全体、あるいは、サブセット( 「あなた」の「拡張データ」を含めて )を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。 </seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080655Z" creationid="Takashi　Kunai" creationdate="20171123T050648Z">
+        <seg>1.9&lt;t0/&gt;　&lt;t1/&gt;「公開」するとは、「データ」の全体、あるいは、サブセット( 「あなた」の「拡張データ」を含めて )を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。 </seg>
       </tuv>
     </tu>
     <tu>
