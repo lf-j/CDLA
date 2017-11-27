@@ -406,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t0/&gt;　&lt;t1/&gt;of Data,&lt;t2/&gt;　&lt;t3/&gt;including&lt;t4/&gt;　&lt;t5/&gt;any applicable privacy, data protection, security&lt;t6/&gt;　&lt;t7/&gt;and export laws.&lt;t8/&gt;　&lt;t9/&gt;You agree to take reasonable steps to assist a Data&lt;t10/&gt;　&lt;t11/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T035901Z" creationid="Takashi　Kunai" creationdate="20171127T035901Z">
+        <seg>[You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t0/&gt;　&lt;t1/&gt;of Data,&lt;t2/&gt;　&lt;t3/&gt;including&lt;t4/&gt;　&lt;t5/&gt;any applicable privacy, data protection, security&lt;t6/&gt;　&lt;t7/&gt;and export laws.&lt;t8/&gt;　&lt;t9/&gt;You agree to take reasonable steps to assist a Data&lt;t10/&gt;　&lt;t11/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T035906Z" creationid="Takashi　Kunai" creationdate="20171127T035906Z">
+        <seg>ha,You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record&lt;t0/&gt;　&lt;t1/&gt;the Data or grants of rights in Data in the Ledger.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171124T071329Z" creationid="Takashi　Kunai" creationdate="20171124T062808Z">
