@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt;　&lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt;　&lt;t5/&gt;Modifications do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T045304Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
-        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更する」とは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080738Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
+        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更」するとは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>For any form of Entity, that is to make the Data available to&lt;t2/&gt;　&lt;t3/&gt;any individual who is not employed by that Entity&lt;t4/&gt;　&lt;t5/&gt;or engaged as a contractor or agent to perform work on that Entity’s behalf.&lt;t6/&gt;　&lt;t7/&gt;A “Publication”&lt;t8/&gt;　&lt;t9/&gt;occurs each time You Publish Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071237Z" creationid="Takashi　Kunai" creationdate="20171123T052345Z">
-        <seg>どのような「エンティティ」であろうと、これは「データ」が、当該「エンティティ」に雇用されていない、あるいは、「エンティティ」の契約者やエージェントとして関わっていない個人に利用可能となることを意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「公開」は、&lt;t8/&gt;&lt;t9/&gt;「あなた」が「データ」を「公開する」度に行われます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T081000Z" creationid="Takashi　Kunai" creationdate="20171123T052345Z">
+        <seg>どのような形の「エンティティ」にとっても、これは「データ」が、当該「エンティティ」に雇用されていない、あるいは、「エンティティ」の契約者やエージェントとして関わっていない個人に利用可能となることを意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「公開」は、&lt;t8/&gt;&lt;t9/&gt;「あなた」が「データ」を「公開する」度に行われます。</seg>
       </tuv>
     </tu>
     <tu>
