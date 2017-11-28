@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(a)&lt;t0/&gt; &lt;t1/&gt;The Data (including the Enhanced Data)&lt;t2/&gt; &lt;t3/&gt;must be Published&lt;t4/&gt; &lt;t5/&gt;under this Agreement&lt;t6/&gt; &lt;t7/&gt;in accordance with this Section 3; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T064444Z" creationid="Takashi　Kunai" creationdate="20171128T064444Z">
+        <seg>(a)&lt;t0/&gt; &lt;t1/&gt;当該の「データ」(「拡張データ」を含む)&lt;t2/&gt;&lt;t3/&gt;は、本第3節に則り、本「契約」のもとで「公開」しなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a)&lt;t0/&gt;　&lt;t1/&gt;The Data (including the Enhanced Data)&lt;t2/&gt;　&lt;t3/&gt;must be Published&lt;t4/&gt;　&lt;t5/&gt;under this Agreement&lt;t6/&gt;　&lt;t7/&gt;in accordance with this Section 3; and&lt;t8/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T233001Z" creationid="Takashi　Kunai" creationdate="20171123T232145Z">
@@ -14,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(b)&lt;t0/&gt; &lt;t1/&gt;You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt; &lt;t3/&gt;files; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T064527Z" creationid="Takashi　Kunai" creationdate="20171128T064527Z">
+        <seg>(b)&lt;t0/&gt; &lt;t1/&gt;「あなた」は、「拡張データ」が入った「データ」のファイルに、「あなた」がそれらの変更を実施したことを示す明瞭な告知を伴うようにしなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those&lt;t2/&gt;　&lt;t3/&gt;files; and</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083549Z" creationid="Takashi　Kunai" creationdate="20171123T232621Z">
         <seg>(b)&lt;t0/&gt;　&lt;t1/&gt;「あなた」は、「拡張データ」が入った「データ」のファイルに、「あなた」がそれらの変更を実施したことを示す明瞭な告知を伴うようにしなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(c)&lt;t0/&gt; &lt;t1/&gt;If You Publish Data You Receive, &lt;t2/&gt;You&lt;t3/&gt; must preserve all credit or attribution to the Data Provider(s).&lt;t4/&gt; &lt;t5/&gt;Such retained credit or attribution includes any of the following to the extent they exist in Data as You &lt;t6/&gt;have&lt;t7/&gt; Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T064718Z" creationid="Takashi　Kunai" creationdate="20171128T064718Z">
+        <seg>(c)&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「あなた」が「公開」するならば、「あなた」は、「データ提供者」に対するクレディットや帰属表示を保持したままにしておかなければなりません。そのようなクレディットや帰属表示は、「あなた」が「受領」したときに「データ」の中で存在していたもので、以下のいずれかです。法務的な告知、ないしは、メタデータ、「データ提供者」の識別情報、あるいは、「データ」に対するハイパーリンク ( 実際上実行可能なら )。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
