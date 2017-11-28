@@ -254,6 +254,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.1&lt;t0/&gt; &lt;t1/&gt;Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t2/&gt; &lt;t3/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T063456Z" creationid="Takashi　Kunai" creationdate="20171128T063456Z">
+        <seg>2.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の第3節に規定された諸条件に従うこと前提に、「データ提供者」は「あなた」に対して、 (a) 「データ」の「使用」、および、 (b) 「データ」の「公開」に関して、全世界における、非独占的で、( 第5節の規定を例外として ) 取り消すことのない権利をここに認めます。&lt;t2/&gt; &lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2&lt;t0/&gt; &lt;t1/&gt;To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui&lt;t2/&gt; &lt;t3/&gt;Generis Database Rights,&lt;t4/&gt; &lt;t5/&gt;or other law, Data Provider(s) further agree(s) that such&lt;t6/&gt; &lt;t7/&gt;Data or&lt;t8/&gt; &lt;t9/&gt;coordination, selection or arrangement is hereby licensed to You and to anyone else who&lt;t10/&gt; &lt;t11/&gt;Receives&lt;t12/&gt; &lt;t13/&gt;Data under this Agreement for Use and Publication,&lt;t14/&gt; &lt;t15/&gt;subject to&lt;t16/&gt; &lt;t17/&gt;the conditions set forth in Section 3 of this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T063749Z" creationid="Takashi　Kunai" creationdate="20171128T063749Z">
+        <seg>2.2&lt;t0/&gt; &lt;t1/&gt;「データ」、あるいは、「データ」の連携・選択・配列が、著作権、「独自法によるデータベースの諸権利」、あるいは、その他の法令のもとに保護され、また、保護可能である範囲において、さらにそのうえに「データ提供者」は、本「契約」の第3節に規定された諸条件に従うことを前提に、当該「データ」、あるいは、同「データ」の連携・選択・配列が、「あなた」および本「契約」のもとに「データ」を「受領」する他の誰に対しても、「使用」および「公開」を目的に、ここにライセンスされることを同意するものとします。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.3</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083138Z" creationid="Takashi　Kunai" creationdate="20171127T083138Z">
