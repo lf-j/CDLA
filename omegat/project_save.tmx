@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.1&lt;t0/&gt; &lt;t1/&gt;“Add” means to supplement Data with Your own or&lt;t2/&gt; &lt;t3/&gt;someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053333Z" creationid="Takashi　Kunai" creationdate="20171128T053333Z">
+        <seg>1.1&lt;t0/&gt; &lt;t1/&gt;「追加」するとは、「あなた」自身、あるいは、他の誰かの「データ」によって「データ」を増補することを意味し、結果として「あなた」の「追加部」を形成します。「追加部」は、後記の「結果物」を含みません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.1&lt;t0/&gt;　&lt;t1/&gt;“Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.” Additions do not include Results.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080635Z" creationid="Takashi　Kunai" creationdate="20171122T055714Z">
@@ -78,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.2&lt;t0/&gt; &lt;t1/&gt;“Computational Use” means Your analysis&lt;t2/&gt; &lt;t3/&gt;(through the use of computational devices or otherwise) or other interpretation of Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053409Z" creationid="Takashi　Kunai" creationdate="20171128T053409Z">
+        <seg>1.2&lt;t0/&gt; &lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解釈を意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;“Computational Use” means Your analysis&lt;t2/&gt;　&lt;t3/&gt;(through the use of computational devices or otherwise) or other interpretation of Data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075648Z" creationid="Takashi　Kunai" creationdate="20171122T060907Z">
         <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解釈を意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.3&lt;t0/&gt; &lt;t1/&gt;“Data” means the information (including copyrightable information, such as images or&lt;t2/&gt; &lt;t3/&gt;text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053516Z" creationid="Takashi　Kunai" creationdate="20171128T053516Z">
+        <seg>1.3&lt;t0/&gt; &lt;t1/&gt;「データ」とは、集合としての、もしくは、個別の情報 ( 画像やテキストのような著作権保護される情報を含む ) を意味します。それらは、「データ提供者」、あるいは、「データ提供者」のために活動する「エンティティ」によって作られた、あるいは、集められたものであり、それらに関する諸権利が、本「契約」のもとで許諾されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T085559Z" creationid="Takashi　Kunai" creationdate="20171125T014520Z">
         <seg>もしも「あなた」が本「契約」の諸条件の準拠に著しく違反し、かつ、「あなた」がそのような準拠違反に気付いてから合理的な日数内に違反を是正できなかったとき、本「契約」に基づく「あなた」のすべての権利は終了し、&lt;t0/&gt;&lt;t1/&gt;かつ、「データ」を「受領」、「使用」、「公開」する「あなた」の権利は取り消され、あるいは、変更されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;本「契約」に基づく「あなた」の権利が終了すると、「あなた」は、「データ」を「受領」、「使用」、「公開」することを停止することに合意するものとします。&lt;t7/&gt;&lt;t8/&gt;しかしながら、そのような終了よりも以前に「あなた」が「公開」した「データ」に関連する「あなた」の義務、および、本「契約」のもとで「あなた」によって認められた権利と許可は継続し、残り続けます。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By way of example and not limitation, “Computational Use” includes the application of any computational analytical technique, the purpose of which is the analysis of&lt;t4/&gt; &lt;t5/&gt;any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053447Z" creationid="Takashi　Kunai" creationdate="20171128T053447Z">
+        <seg>例として、「コンピュータ利用」には、コンピュータ分析技術の応用が含まれ、その目的は、デジタル形式の「データ」を分析し、「データ」に関するパターン、傾向、相互関係、推論、考察、および、属性のような情報を生成することを含みますが、これらに限定されるものではありません。</seg>
       </tuv>
     </tu>
     <tu>
