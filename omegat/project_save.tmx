@@ -182,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.8&lt;t0/&gt; &lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt; &lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt; &lt;t5/&gt;Modifications do not include Results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T054552Z" creationid="Takashi　Kunai" creationdate="20171128T054552Z">
+        <seg>1.8&lt;t0/&gt; &lt;t1/&gt;「変更」するとは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt;　&lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt;　&lt;t5/&gt;Modifications do not include Results.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080738Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
         <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更」するとは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.9&lt;t0/&gt; &lt;t1/&gt;“Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T054624Z" creationid="Takashi　Kunai" creationdate="20171128T054624Z">
+        <seg>1.9&lt;t0/&gt; &lt;t1/&gt;「公開」するとは、「データ」の全体、あるいは、サブセット( 「あなた」の「拡張データ」を含めて )を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T083422Z" creationid="Takashi　Kunai" creationdate="20171123T083503Z">
         <seg>明示的に認められた諸権利、およびライセンスを除いて、他のいかなる知的財産権も許認されていません、あるいは、そのように読み取られるべきではありせん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any form of Entity, that is to make the Data available to&lt;t2/&gt; &lt;t3/&gt;any individual who is not employed by that Entity&lt;t4/&gt;　&lt;t5/&gt;or engaged as a contractor or agent to perform work on that Entity’s behalf.&lt;t6/&gt; &lt;t7/&gt;A “Publication”&lt;t8/&gt; &lt;t9/&gt;occurs each time You Publish Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T054817Z" creationid="Takashi　Kunai" creationdate="20171128T054817Z">
+        <seg>どのような形の「エンティティ」にとっても、これは「データ」が、当該「エンティティ」に雇用されていない、あるいは、「エンティティ」の契約者やエージェントとして関わっていない個人に利用可能となることを意味します。「公開」は、「あなた」が「データ」を「公開する」度に行われます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
