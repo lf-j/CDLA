@@ -118,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.4&lt;t0/&gt; &lt;t1/&gt;“Data Provider” means any Entity&lt;t2/&gt; &lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt; &lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt; &lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt; &lt;t9/&gt;prior to Your Receiving it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053654Z" creationid="Takashi　Kunai" creationdate="20171128T053654Z">
+        <seg>1.4&lt;t0/&gt; &lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」 ( そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます ) を意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;“Data Provider” means any Entity&lt;t2/&gt;　&lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt;　&lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt;　&lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt;　&lt;t9/&gt;prior to Your Receiving it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080001Z" creationid="Takashi　Kunai" creationdate="20171122T081736Z">
         <seg>1.4&lt;t0/&gt;　&lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」 ( そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます ) を意味します。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.5&lt;t0/&gt; &lt;t1/&gt;“Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053735Z" creationid="Takashi　Kunai" creationdate="20171128T053735Z">
+        <seg>1.5&lt;t0/&gt; &lt;t1/&gt;「拡張データ」とは、「あなた」が「公開」し、「あなた」が本「契約」のもとで受領した「データ」に対する「あなた」の (a)「追加部」、および、 (b) 「変更部」に該当する「データ」のサブセットを意味します。</seg>
       </tuv>
     </tu>
     <tu>
