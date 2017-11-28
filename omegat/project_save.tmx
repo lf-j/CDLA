@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 1.&lt;t0/&gt; &lt;t1/&gt;Definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053200Z" creationid="Takashi　Kunai" creationdate="20171128T053200Z">
+        <seg>第1節&lt;t0/&gt; &lt;t1/&gt;諸定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 1.&lt;t0/&gt;　&lt;t1/&gt;Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171123T071619Z" creationid="Takashi　Kunai" creationdate="20171122T054334Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T074641Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
         <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版です&lt;t0/&gt; &lt;t1/&gt;(「契約」)。この日本語版は参考訳です。契約書としては英語版のみが有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the Community Data License Agreement–Sharing,&lt;t0/&gt; &lt;t1/&gt;Version 1.0&lt;t2/&gt; &lt;t3/&gt;(“Agreement”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053044Z" creationid="Takashi　Kunai" creationdate="20171128T053044Z">
+        <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版です。この日本語版は参考訳です。契約としては英語版のみが有効です(「契約」)。&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
