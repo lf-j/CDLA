@@ -391,10 +391,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt; &lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084511Z" creationid="Takashi　Kunai" creationdate="20171128T084511Z">
+        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件充足を伴っていません。それらの中には、特別の名称を名乗ること、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件充足が含まれます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt;　&lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T085650Z" creationid="Takashi　Kunai" creationdate="20171125T084804Z">
         <seg>6.1&lt;t0/&gt;　&lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件充足を伴っていません。それらの中には、特別の名称を名乗ること、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件充足が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) &lt;t2/&gt;ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084641Z" creationid="Takashi　Kunai" creationdate="20171128T084641Z">
+        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的、間接的、付随的、特異的、懲罰的、結果的な ( 逸失利益やそれ以外も含む) 損害に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 不注意やその他を含む ) ものかどうかを問いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.1&lt;t0/&gt; &lt;t1/&gt;You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t2/&gt; &lt;t3/&gt;of Data,&lt;t4/&gt; &lt;t5/&gt;including&lt;t6/&gt; &lt;t7/&gt;any applicable privacy, data protection, security&lt;t8/&gt;　&lt;t9/&gt;and export laws.&lt;t10/&gt; &lt;t11/&gt;You agree to take reasonable steps to assist a Data&lt;t12/&gt; &lt;t13/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084729Z" creationid="Takashi　Kunai" creationdate="20171128T084729Z">
+        <seg>7.1&lt;t0/&gt; &lt;t1/&gt;「あなた」は、「データ」の「使用」、あるいは、「公開」に関連して、プライバシー保護、データ保護、セキュリティ、輸出規制を含むすべての適用法令を順守することの責任が「あなた」のみにあるということに同意するものとします。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;また、ここで「受領」した「データ」の「使用」、「公開」に関して、「データ提供者」が適用法令を遵守する責務を果たすことを助けるために、「あなた」は、合理的な処置をとることに同意するものとします。&lt;t10/&gt;&lt;t11/&gt;You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t2/&gt; &lt;t3/&gt;of Data,&lt;t4/&gt; &lt;t5/&gt;including&lt;t6/&gt; &lt;t7/&gt;any applicable privacy, data protection, security&lt;t8/&gt;　&lt;t9/&gt;and export laws.&lt;t10/&gt; &lt;t11/&gt;You agree to take reasonable steps to assist a Data&lt;t12/&gt; &lt;t13/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
       </tuv>
     </tu>
     <tu>
