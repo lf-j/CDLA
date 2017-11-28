@@ -417,8 +417,24 @@
       <tuv lang="EN-US">
         <seg>7.1&lt;t0/&gt; &lt;t1/&gt;You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t2/&gt; &lt;t3/&gt;of Data,&lt;t4/&gt; &lt;t5/&gt;including&lt;t6/&gt; &lt;t7/&gt;any applicable privacy, data protection, security&lt;t8/&gt;　&lt;t9/&gt;and export laws.&lt;t10/&gt; &lt;t11/&gt;You agree to take reasonable steps to assist a Data&lt;t12/&gt; &lt;t13/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084729Z" creationid="Takashi　Kunai" creationdate="20171128T084729Z">
-        <seg>7.1&lt;t0/&gt; &lt;t1/&gt;「あなた」は、「データ」の「使用」、あるいは、「公開」に関連して、プライバシー保護、データ保護、セキュリティ、輸出規制を含むすべての適用法令を順守することの責任が「あなた」のみにあるということに同意するものとします。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;また、ここで「受領」した「データ」の「使用」、「公開」に関して、「データ提供者」が適用法令を遵守する責務を果たすことを助けるために、「あなた」は、合理的な処置をとることに同意するものとします。&lt;t10/&gt;&lt;t11/&gt;You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication&lt;t2/&gt; &lt;t3/&gt;of Data,&lt;t4/&gt; &lt;t5/&gt;including&lt;t6/&gt; &lt;t7/&gt;any applicable privacy, data protection, security&lt;t8/&gt;　&lt;t9/&gt;and export laws.&lt;t10/&gt; &lt;t11/&gt;You agree to take reasonable steps to assist a Data&lt;t12/&gt; &lt;t13/&gt;Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084822Z" creationid="Takashi　Kunai" creationdate="20171128T084729Z">
+        <seg>7.1&lt;t0/&gt; &lt;t1/&gt;「あなた」は、「データ」の「使用」、あるいは、「公開」に関連して、プライバシー保護、データ保護、セキュリティ、輸出規制を含むすべての適用法令を順守することの責任が「あなた」のみにあるということに同意するものとします。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;また、ここで「受領」した「データ」の「使用」、「公開」に関して、「データ提供者」が適用法令を遵守する責務を果たすことを助けるために、「あなた」は、合理的な処置をとることに同意するものとします。&lt;t10/&gt;&lt;t11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.2&lt;t0/&gt; &lt;t1/&gt;You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084909Z" creationid="Takashi　Kunai" creationdate="20171128T084909Z">
+        <seg>7.2&lt;t0/&gt; &lt;t1/&gt;「あなた」と「データ提供者」は、「あなた」、あるいは、「データ提供者」が「データ」中に持ついかなる人格権について、法の許す限りにおいて、放棄し、あるいは、強く主張しないことに同意するものとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.3&lt;t0/&gt; &lt;t1/&gt;This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084932Z" creationid="Takashi　Kunai" creationdate="20171128T084932Z">
+        <seg>7.3&lt;t0/&gt; &lt;t1/&gt;本「契約」は、「当事者」、および、それぞれの継承者、執行者、後継者、および、譲渡者以外の他の人物あるいはエンティティに対して、いかなる権利や救済も授与するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -427,6 +443,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T050934Z" creationid="Takashi　Kunai" creationdate="20171127T045010Z">
         <seg>7.3&lt;t0/&gt;　&lt;t1/&gt;本「契約」は、「当事者」、および、それぞれの継承者、執行者、後継者、および、譲渡者以外の他の人物あるいはエンティティに対して、いかなる権利や救済も授与するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.4&lt;t0/&gt; &lt;t1/&gt;The Data Provider(s) reserve no right or expectation of privacy, data protection&lt;t2/&gt; &lt;t3/&gt;or confidentiality in any Data that they Publish under this Agreement.&lt;t4/&gt; &lt;t5/&gt;If You choose to Publish Data under this Agreement, &lt;t6/&gt;You&lt;t7/&gt; similarly do so with no reservation or expectation&lt;t8/&gt; &lt;t9/&gt;of any rights&lt;t10/&gt; &lt;t11/&gt;of privacy or confidentiality&lt;t12/&gt; &lt;t13/&gt;in that Data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T085016Z" creationid="Takashi　Kunai" creationdate="20171128T085016Z">
+        <seg>7.4&lt;t0/&gt; &lt;t1/&gt;本「契約」のもとに「公開」されたいかなる「データ」においても、当該「データ提供者」は、プライバシー保護、データ保護、あるいは、秘密保持に関して、いかなる権利も、特別な期待も留保しません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;もしも「あなた」が、本「契約」に基づいて「データ」を「公開」する選択をするなら、「あなた」は同様に、その「データ」におけるプライバシー保護、あるいは、秘密保持に対するあらゆる権利と特別な期待を留保しないものとします。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
