@@ -463,6 +463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Community Data License Agreement workgroup under The Linux&lt;t2/&gt; &lt;t3/&gt;Foundation is the steward&lt;t4/&gt; &lt;t5/&gt;of this Agreement&lt;t6/&gt;　&lt;t7/&gt;(“Steward”).&lt;t8/&gt; &lt;t9/&gt;No one other than the Steward has the right to modify or publish new versions of this Agreement.&lt;t10/&gt; &lt;t11/&gt;Each version will be given a distinguishing version number.&lt;t12/&gt; &lt;t13/&gt;You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You &lt;t14/&gt;originally&lt;t15/&gt; Received the Data, or under the terms of any subsequent version published by the Stewar&lt;t16/&gt;d.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T085105Z" creationid="Takashi　Kunai" creationdate="20171128T085105Z">
+        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Linux Foundation の Community Data License Agreement ワークグループは、&lt;t0/&gt;&lt;t1/&gt;本「契約」の「幹事役」です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「幹事役」以外の誰にも本「契約」を変更したり、新バージョンを発行したりする権利はありません。&lt;t8/&gt;&lt;t9/&gt;各バージョンには、識別のためにバージョン番号を付与しています。&lt;t10/&gt;&lt;t11/&gt;「あなた」は、ここで「受領」した「データ」を「使用」、「公開」するに当たり、「あなた」が初めて「データ」を「受領」した際の「契約」バージョンの文言に基づくこともできますし、あるいは、「幹事役」によって発行された後継バージョンの文言に基づくこともできます。&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171122T054249Z" creationid="Takashi　Kunai" creationdate="20171122T054249Z">
