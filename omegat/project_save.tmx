@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>1.12&lt;t0/&gt; &lt;t1/&gt;“Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights&lt;t2/&gt; &lt;t3/&gt;anywhere in the world.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T071512Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
-        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して1996年3月11日、欧州議会、および、評議会が制定したディレクティブ96/9/ECによって規定される、著作権とは別の特別 ( Sui Generis ) 権を意味します。同ディレクティブの修正・継承や、世界のどこであろうとそれと同等の諸権利も包含します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T083946Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
+        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して1996年3月11日、欧州議会、および、評議会が制定したディレクティブ96/9/ECによって規定される、著作権とは別の特別 ( Sui Generis ) 権を意味します。同ディレクティブにアデンダムとして追加されたものや後継版の修正・継承や、世界のどこであろうとそれと同等の諸権利も包含します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>1.13&lt;t0/&gt; &lt;t1/&gt;“Use” means using Data&lt;t2/&gt; &lt;t3/&gt;(including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it),&lt;t4/&gt; &lt;t5/&gt;either by machines or humans, or a combination of both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T071332Z" creationid="Takashi　Kunai" creationdate="20171128T055359Z">
-        <seg>,1.13&lt;t0/&gt; &lt;t1/&gt;「使用」とは、コンピュータ装置による、あるいは、人による、さらには両方の組み合わせによる「データ」の使用を意味し、アクセス、コピー、研究、レビュー、適合化、分析、評価、「コンピュータ利用」に供することを含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T084025Z" creationid="Takashi　Kunai" creationdate="20171128T055359Z">
+        <seg>1.13&lt;t0/&gt; &lt;t1/&gt;「使用」とは、コンピュータ装置による、あるいは、人による、さらには両方の組み合わせによる「データ」の使用を意味し、アクセス、コピー、研究、レビュー、適合化、分析、評価、「コンピュータ利用」に供することを含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
