@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>1.12&lt;t0/&gt; &lt;t1/&gt;“Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights&lt;t2/&gt; &lt;t3/&gt;anywhere in the world.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T055204Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
-        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「独自法によるデータベースの諸権利」とは、欧州議会、および、データベースの法的保護に関して1996年3月11日の評議会がディレクティブ96/9/ECによって規定した著作権とは別の諸権利を意味します。同ディレクティブの修正・継承や、世界のどこであろうとそれと同等の諸権利も包含します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T071210Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
+        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して1996年3月11日、欧州議会、および、評議会が制定したディレクティブ96/9/ECによって規定される著作権とは別の特別 ( Sui Generis ) 権を意味します。同ディレクティブの修正・継承や、世界のどこであろうとそれと同等の諸権利も包含します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
