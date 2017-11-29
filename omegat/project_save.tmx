@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>1.10&lt;t0/&gt; &lt;t1/&gt;“Receive” or “Receives” means to have been given access&lt;t2/&gt;　&lt;t3/&gt;to Data, locally or remotely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T054900Z" creationid="Takashi　Kunai" creationdate="20171128T054900Z">
-        <seg>1.10&lt;t0/&gt; &lt;t1/&gt;「受領」するとは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T081558Z" creationid="Takashi　Kunai" creationdate="20171128T054900Z">
+        <seg>1.10&lt;t0/&gt; &lt;t1/&gt;「受領」とは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
