@@ -328,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;If You Publish Data You Receive, You must do so&lt;t2/&gt;　&lt;t3/&gt;under an unmodified form of&lt;t4/&gt;　&lt;t5/&gt;this Agreement and include the text of &lt;t6/&gt;this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.&lt;t7/&gt;　&lt;t8/&gt;You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.&lt;t9/&gt;　&lt;t10/&gt;Notices that purport to modify this Agreement shall be of no effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T084247Z" creationid="Takashi　Kunai" creationdate="20171124T072215Z">
-        <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされる方法を提供しなければなりません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;「あなた」は、本「契約」を修正したり、本「契約」のもとで認めらている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域のみに限定することが挙げられます。&lt;t9/&gt;&lt;t10/&gt;本「契約」の変更をの唱えるかのような告知は無効です。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T083944Z" creationid="Takashi　Kunai" creationdate="20171124T072215Z">
+        <seg>3.3&lt;t0/&gt;　&lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされるその他の方法を提供しなければなりません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;「あなた」は、本「契約」を修正したり、本「契約」のもとで許諾されている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域のみに限定することが挙げられます。&lt;t9/&gt;&lt;t10/&gt;本「契約」の変更をの唱えるかのような告知は無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN-US">
         <seg>3.4&lt;t0/&gt;　&lt;t1/&gt;You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T084512Z" creationid="Takashi　Kunai" creationdate="20171124T081547Z">
-        <seg>3.4&lt;t0/&gt;　&lt;t1/&gt;「あなた」、および、各「データ提供者」は、「拡張データ」が本「契約」のもとライセンスされた「データ」との関係のために共同著作物とみなさることがないということ、また、「データ提供者」について何らかの説明の義務を負ったり、「データ提供者」の同意を得たりすることを要しないということに合意したものとします。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T084026Z" creationid="Takashi　Kunai" creationdate="20171124T081547Z">
+        <seg>3.4&lt;t0/&gt;　&lt;t1/&gt;「あなた」、および、各「データ提供者」は、「拡張データ」が本「契約」のもとライセンスされた「データ」との関係を理由に共同著作物とみなさることがないということ、また、「データ提供者」について何らかの説明の義務を負ったり、「データ提供者」の同意を得たりすることを要しないということに合意したものとします。</seg>
       </tuv>
     </tu>
     <tu>
