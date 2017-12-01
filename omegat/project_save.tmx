@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>1.13&lt;t0/&gt;　&lt;t1/&gt;“Use” means using Data&lt;t2/&gt;　&lt;t3/&gt;(including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it),&lt;t4/&gt;　&lt;t5/&gt;either by machines or humans, or a combination of both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T081641Z" creationid="Takashi　Kunai" creationdate="20171123T062453Z">
-        <seg>1.13&lt;t0/&gt;　&lt;t1/&gt;「使用」とは、コンピュータ装置による、あるいは、人による、さらには両方の組み合わせによる「データ」の使用を意味し、アクセス、コピー、研究、レビュー、適合化、分析、評価、「コンピュータ利用」に供することを含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T081821Z" creationid="Takashi　Kunai" creationdate="20171123T062453Z">
+        <seg>1.13&lt;t0/&gt;　&lt;t1/&gt;「使用」とは、機械または人間によって、あるいは両方の組み合わせによって「データ」を使用することを意味し、「データ」を対象としたアクセス、コピー、学習、レビュー、適用、分析、評価、あるいは、「コンピュータ利用」に供することを含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
