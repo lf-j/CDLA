@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;“Receive” or “Receives” means to have been given access&lt;t2/&gt;　&lt;t3/&gt;to Data, locally or remotely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080708Z" creationid="Takashi　Kunai" creationdate="20171123T053229Z">
-        <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;「受領」するとは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T073239Z" creationid="Takashi　Kunai" creationdate="20171123T053229Z">
+        <seg>1.10&lt;t0/&gt;　&lt;t1/&gt;「受領」とは、ローカル、あるいは、リモートで「データ」へのアクセスができたことを意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;“Entity”&lt;t2/&gt;　&lt;t3/&gt;means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.&lt;t4/&gt;　&lt;t5/&gt;For the purposes of this definition, “control”&lt;t6/&gt;　&lt;t7/&gt;means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares&lt;t8/&gt;　&lt;t9/&gt;or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T072603Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
-        <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され当該国の法令のもとに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールのもとに置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配力、 (b) 発行済株式、あるいは、証券の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利の有無によらず、「エンティティ」役員の過半数を指名できる権限を意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T073142Z" creationid="Takashi　Kunai" creationdate="20171123T013412Z">
+        <seg>1.6&lt;t0/&gt;　&lt;t1/&gt;「エンティティ」とは、個人、ないしは、各国において設立され当該国の法令のもとに実在する組織を意味します。&lt;t2/&gt;&lt;t3/&gt;この際、当該エンティティをコントロールする、当該エンティティからコントールされる、あるいは、当該エンティティと共通のコントロールのもとに置かれたすべての他のエンティティが包含されます。&lt;t4/&gt;&lt;t5/&gt;本定義において、「コントロール」とは、&lt;t6/&gt;&lt;t7/&gt; (a) そのようなエンティティに対し、契約、ないしはその他の手法を通じて、直接・間接の指揮・管理を行う支配力、 (b) 発行済株式、あるいは、証券の50%を超えた保有、&lt;t8/&gt;&lt;t9/&gt; (c) そのようなエンティティに対する受益所有権、あるいは、 (d) 契約、あるいは、権利の有無によらず、「エンティティ」の取締役の過半数を指名できる権限を意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;“Modify” means to delete, erase,&lt;t2/&gt;　&lt;t3/&gt;correct or re-arrange Data, resulting in “Modifications.”&lt;t4/&gt;　&lt;t5/&gt;Modifications do not include Results.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T080738Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
-        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更」するとは、「データ」の削除、消去、修正、あるいは、再配列を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T073220Z" creationid="Takashi　Kunai" creationdate="20171123T044958Z">
+        <seg>1.8&lt;t0/&gt;　&lt;t1/&gt;「変更」するとは、「データ」の削除、消去、修正、あるいは、再配置を意味し、その結果として、「修正部」が形成されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;「修正部」は、後記の「結果物」を含みません。</seg>
       </tuv>
     </tu>
     <tu>
