@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;“Computational Use” means Your analysis&lt;t2/&gt;　&lt;t3/&gt;(through the use of computational devices or otherwise) or other interpretation of Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T075648Z" creationid="Takashi　Kunai" creationdate="20171122T060907Z">
-        <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解釈を意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T072903Z" creationid="Takashi　Kunai" creationdate="20171122T060907Z">
+        <seg>1.2&lt;t0/&gt;　&lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解析を意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -753,8 +753,8 @@
       <tuv lang="EN-US">
         <seg>This is the Community Data License Agreement–Sharing, Version 1.0&lt;t0/&gt; &lt;t1/&gt;(“Agreement”).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171127T074641Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
-        <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版です&lt;t0/&gt; &lt;t1/&gt;(「契約」)。この日本語版は参考訳です。契約書としては英語版のみが有効です。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T073005Z" creationid="Takashi　Kunai" creationdate="20171121T065746Z">
+        <seg>これは、コミュニティデータ ライセンス契約－共有型－第1.0版&lt;t0/&gt; &lt;t1/&gt;(「契約」) です。この日本語版は参考訳です。契約書としては英語版のみが有効です。</seg>
       </tuv>
     </tu>
     <tu>
