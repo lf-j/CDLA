@@ -425,8 +425,8 @@
       <tuv lang="EN-US">
         <seg>7.3&lt;t0/&gt; &lt;t1/&gt;This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171201T071024Z" creationid="Takashi　Kunai" creationdate="20171128T084932Z">
-        <seg>7.3&lt;t0/&gt; &lt;t1/&gt;本「契約」は、「両当事者」、および、それぞれの継承者、執行者、後継者、および、譲渡者以外の他の人物あるいはエンティティに対して、いかなる権利や救済も授与するものではありません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T012112Z" creationid="Takashi　Kunai" creationdate="20171128T084932Z">
+        <seg>7.3&lt;t0/&gt; &lt;t1/&gt;本「契約」は、「両当事者」、および、それぞれの継承者、執行者、後継者、および、譲受人以外の他の人物あるいはエンティティに対して、いかなる権利や救済も授与するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -441,8 +441,8 @@
       <tuv lang="EN-US">
         <seg>7.4&lt;t0/&gt; &lt;t1/&gt;The Data Provider(s) reserve no right or expectation of privacy, data protection&lt;t2/&gt; &lt;t3/&gt;or confidentiality in any Data that they Publish under this Agreement.&lt;t4/&gt; &lt;t5/&gt;If You choose to Publish Data under this Agreement, &lt;t6/&gt;You&lt;t7/&gt; similarly do so with no reservation or expectation&lt;t8/&gt; &lt;t9/&gt;of any rights&lt;t10/&gt; &lt;t11/&gt;of privacy or confidentiality&lt;t12/&gt; &lt;t13/&gt;in that Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T085016Z" creationid="Takashi　Kunai" creationdate="20171128T085016Z">
-        <seg>7.4&lt;t0/&gt; &lt;t1/&gt;本「契約」のもとに「公開」されたいかなる「データ」においても、当該「データ提供者」は、プライバシー保護、データ保護、あるいは、秘密保持に関して、いかなる権利も、特別な期待も留保しません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;もしも「あなた」が、本「契約」に基づいて「データ」を「公開」する選択をするなら、「あなた」は同様に、その「データ」におけるプライバシー保護、あるいは、秘密保持に対するあらゆる権利と特別な期待を留保しないものとします。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T012120Z" creationid="Takashi　Kunai" creationdate="20171128T085016Z">
+        <seg>7.4&lt;t0/&gt; &lt;t1/&gt;本「契約」のもとに「公開」されたいかなる「データ」においても、当該「データ提供者」は、プライバシー保護、データ保護、あるいは、秘密保持に関して、いかなる権利も、特別な期待も留保しません。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;もし「あなた」が、本「契約」に基づいて「データ」を「公開」する選択をするなら、「あなた」は同様に、その「データ」におけるプライバシー保護、あるいは、秘密保持に対するあらゆる権利と特別な期待を留保しないものとします。&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,8 +457,8 @@
       <tuv lang="EN-US">
         <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Community Data License Agreement workgroup under The Linux&lt;t2/&gt; &lt;t3/&gt;Foundation is the steward&lt;t4/&gt; &lt;t5/&gt;of this Agreement&lt;t6/&gt;　&lt;t7/&gt;(“Steward”).&lt;t8/&gt; &lt;t9/&gt;No one other than the Steward has the right to modify or publish new versions of this Agreement.&lt;t10/&gt; &lt;t11/&gt;Each version will be given a distinguishing version number.&lt;t12/&gt; &lt;t13/&gt;You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You &lt;t14/&gt;originally&lt;t15/&gt; Received the Data, or under the terms of any subsequent version published by the Stewar&lt;t16/&gt;d.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T080443Z" creationid="Takashi　Kunai" creationdate="20171128T085105Z">
-        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Linux Foundation の Community Data License Agreement ワークグループは、&lt;t0/&gt;&lt;t1/&gt;本「契約」の「幹事役」です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「幹事役」以外の誰にも本「契約」を変更したり、新バージョンを発行したりする権利はありません。&lt;t8/&gt;&lt;t9/&gt;各バージョンには、識別のためにバージョン番号を付与されます。&lt;t10/&gt;&lt;t11/&gt;「あなた」は、ここで「受領」した「データ」を「使用」、「公開」するに当たり、「あなた」が初めて「データ」を「受領」した際の「契約」バージョンの文言に基づくこともできますし、あるいは、「幹事役」によって発行された後継バージョンの文言に基づくこともできます。&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T012200Z" creationid="Takashi　Kunai" creationdate="20171128T085105Z">
+        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Linux Foundation の Community Data License Agreement ワークグループは、&lt;t0/&gt;&lt;t1/&gt;本「契約」の「幹事役」です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「幹事役」以外の誰にも本「契約」を変更したり、新バージョンを発行したりする権利はありません。&lt;t8/&gt;&lt;t9/&gt;各バージョンには、識別のためにバージョン番号を付与されます。&lt;t10/&gt;&lt;t11/&gt;「あなた」は、ここで「受領」した「データ」を「使用」、「公開」するに当たり、「あなた」が初めて「データ」を「受領」した際の「契約」バージョンの条件に基づくこともできますし、あるいは、「幹事役」によって発行された後継バージョンの条件に基づくこともできます。&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
