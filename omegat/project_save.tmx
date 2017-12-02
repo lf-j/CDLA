@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>1.2&lt;t0/&gt; &lt;t1/&gt;“Computational Use” means Your analysis&lt;t2/&gt; &lt;t3/&gt;(through the use of computational devices or otherwise) or other interpretation of Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T080811Z" creationid="Takashi　Kunai" creationdate="20171128T053409Z">
-        <seg>1.2&lt;t0/&gt; &lt;t1/&gt;「コンピュータ利用」とは、( コンピュータ、あるいは、その他を使った )「データ」に対する「あなた」の分析、または、その他の解析を意味します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T023039Z" creationid="Takashi　Kunai" creationdate="20171128T053409Z">
+        <seg>1.2&lt;t0/&gt; &lt;t1/&gt;「コンピュータ利用」とは、 (コンピュータ、あるいは、その他を使った) 「データ」に対する「あなた」の分析、または、その他の解析を意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>1.4&lt;t0/&gt; &lt;t1/&gt;“Data Provider” means any Entity&lt;t2/&gt; &lt;t3/&gt;(including any employee or contractor of such Entity authorized to Publish Data&lt;t4/&gt; &lt;t5/&gt;on behalf of such Entity)&lt;t6/&gt; &lt;t7/&gt;that Publishes Data under this Agreement&lt;t8/&gt; &lt;t9/&gt;prior to Your Receiving it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T053654Z" creationid="Takashi　Kunai" creationdate="20171128T053654Z">
-        <seg>1.4&lt;t0/&gt; &lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」 ( そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます ) を意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022941Z" creationid="Takashi　Kunai" creationdate="20171128T053654Z">
+        <seg>1.4&lt;t0/&gt; &lt;t1/&gt;「データ提供者」とは、「あなた」の「受領」以前に、本「契約」に基づき「データ」を「公開」した「エンティティ」 (そのような「エンティティ」のために「データ」を「公開」することを正式に認められた「エンティティ」の従業員や契約者も含みます) を意味します。&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>1.9&lt;t0/&gt; &lt;t1/&gt;“Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T054624Z" creationid="Takashi　Kunai" creationdate="20171128T054624Z">
-        <seg>1.9&lt;t0/&gt; &lt;t1/&gt;「公開」するとは、「データ」の全体、あるいは、サブセット( 「あなた」の「拡張データ」を含めて )を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022850Z" creationid="Takashi　Kunai" creationdate="20171128T054624Z">
+        <seg>1.9&lt;t0/&gt; &lt;t1/&gt;「公開」するとは、「データ」の全体、あるいは、サブセット (「あなた」の「拡張データ」を含めて) を、いかなる形であれ「使用」できるようにすることを意味します。 それには、物理媒体上のコピーや、リモートアクセスの提供が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
