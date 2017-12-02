@@ -401,8 +401,8 @@
       <tuv lang="EN-US">
         <seg>6.2&lt;t0/&gt; &lt;t1/&gt;NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) &lt;t2/&gt;ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084641Z" creationid="Takashi　Kunai" creationdate="20171128T084641Z">
-        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的、間接的、付随的、特異的、懲罰的、結果的な ( 逸失利益やそれ以外も含む) 損害に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 不注意やその他を含む ) ものかどうかを問いません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T011952Z" creationid="Takashi　Kunai" creationdate="20171128T084641Z">
+        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的損害、間接的損害、付随的損害、特別損害、懲罰的損害賠償、結果的損害 ( 逸失利益やそれ以外も含めて) に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 過失またはその他を含む ) ものかどうかを問いません。</seg>
       </tuv>
     </tu>
     <tu>
