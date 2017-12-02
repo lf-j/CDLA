@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>(a)&lt;t0/&gt; &lt;t1/&gt;The Data (including the Enhanced Data)&lt;t2/&gt; &lt;t3/&gt;must be Published&lt;t4/&gt; &lt;t5/&gt;under this Agreement&lt;t6/&gt; &lt;t7/&gt;in accordance with this Section 3; and</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T002706Z" creationid="Takashi　Kunai" creationdate="20171128T064444Z">
-        <seg>(a)&lt;t0/&gt; &lt;t1/&gt;当該の「データ」(「拡張データ」を含む)&lt;t2/&gt;&lt;t3/&gt;は、本第3節に従って、本「契約」に基づいて「公開」しなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022522Z" creationid="Takashi　Kunai" creationdate="20171128T064444Z">
+        <seg>(a)&lt;t0/&gt; &lt;t1/&gt;当該の「データ」 (「拡張データ」を含む) &lt;t2/&gt;&lt;t3/&gt;は、本第3節に従って、本「契約」に基づいて「公開」しなければなりません、かつ、&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>1.12&lt;t0/&gt; &lt;t1/&gt;“Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights&lt;t2/&gt; &lt;t3/&gt;anywhere in the world.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021223Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
-        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して欧州議会、および、評議会が96/9/EC指令 ( 1996年3月11日制定 ) によって規定した、著作権とは別の特別 ( Sui Generis ) 権を意味します。同指令にアデンダムとして追加されたものや後継版、さらには、それ以外の国で定める同等の諸権利も意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022747Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
+        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 (Sui Generis Database Rights) 」とは、データベースの法的保護に関して欧州議会、および、評議会が96/9/EC指令 ( 1996年3月11日制定 ) によって規定した、著作権とは別の特別 (Sui Generis) 権を意味します。同指令にアデンダムとして追加されたものや後継版、さらには、それ以外の国で定める同等の諸権利も意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>2.1&lt;t0/&gt; &lt;t1/&gt;Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s)&lt;t2/&gt; &lt;t3/&gt;to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T085315Z" creationid="Takashi　Kunai" creationdate="20171128T063456Z">
-        <seg>2.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の第3節に規定された諸条件に従うこと前提に、「データ提供者」は「あなた」に対して、 (a) 「データ」を「使用」、および、 (b) 「データ」を「公開」することの、全世界における、非独占的で、( 第5節の規定を例外として ) 取り消すことのできない権利をここに許諾します。&lt;t2/&gt; &lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022615Z" creationid="Takashi　Kunai" creationdate="20171128T063456Z">
+        <seg>2.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の第3節に規定された諸条件に従うこと前提に、「データ提供者」は「あなた」に対して、 (a) 「データ」を「使用」、および、 (b) 「データ」を「公開」することの、全世界における、非独占的で、(第5節の規定を例外として) 取り消すことのできない権利をここに許諾します。&lt;t2/&gt; &lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
