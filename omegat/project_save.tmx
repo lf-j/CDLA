@@ -369,8 +369,8 @@
       <tuv lang="EN-US">
         <seg>5.1&lt;t0/&gt; &lt;t1/&gt;All of Your rights under this Agreement will&lt;t2/&gt; &lt;t3/&gt;terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified&lt;t4/&gt; &lt;t5/&gt;if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such noncompliance.&lt;t6/&gt; &lt;t7/&gt;If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data.&lt;t8/&gt;　&lt;t9/&gt;However, &lt;t10/&gt;Your&lt;t11/&gt; obligations and any rights and permissions granted by You under&lt;t12/&gt; &lt;t13/&gt;this Agreement relating to Data that You Published prior to such termination will&lt;t14/&gt; &lt;t15/&gt;continue and survive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T003245Z" creationid="Takashi　Kunai" creationdate="20171128T084200Z">
-        <seg>5.1 もしも「あなた」が本「契約」の諸条件の準拠に実質的に違反し、かつ、「あなた」がそのような準拠違反に気付いてから合理的な期間内に違反を是正できなかったとき、本「契約」に基づく「あなた」のすべての権利は終了し、&lt;t0/&gt;&lt;t1/&gt;かつ、「データ」を「受領」、「使用」、「公開」する「あなた」の権利は取り消され、あるいは、変更されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;本「契約」に基づく「あなた」の権利が終了すると、「あなた」は、「データ」を「受領」、「使用」、「公開」することを停止することに合意するものとします。&lt;t7/&gt;&lt;t8/&gt;しかしながら、そのような終了よりも以前に「あなた」が「公開」した「データ」に関連する「あなた」の義務、および、本「契約」のもとで「あなた」によって許諾された権利と許可は継続し、残り続けます。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021824Z" creationid="Takashi　Kunai" creationdate="20171128T084200Z">
+        <seg>5.1 もしも「あなた」が本「契約」の諸条件の準拠に実質的に違反し、かつ、「あなた」がそのような準拠違反に気付いてから合理的な期間内に違反を是正できなかったとき、本「契約」に基づく「あなた」のすべての諸権利は終了し、&lt;t0/&gt;&lt;t1/&gt;かつ、「データ」を「受領」、「使用」、「公開」する「あなた」の諸権利は取り消され、あるいは、変更されます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;本「契約」に基づく「あなた」の諸権利が終了すると、「あなた」は、「データ」を「受領」、「使用」、「公開」することを停止することに合意するものとします。&lt;t7/&gt;&lt;t8/&gt;しかしながら、そのような終了よりも以前に「あなた」が「公開」した「データ」に関連する「あなた」の義務、および、本「契約」のもとで「あなた」によって許諾された諸権利と許可は継続し、残り続けます。&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,8 +457,8 @@
       <tuv lang="EN-US">
         <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Community Data License Agreement workgroup under The Linux&lt;t2/&gt; &lt;t3/&gt;Foundation is the steward&lt;t4/&gt; &lt;t5/&gt;of this Agreement&lt;t6/&gt;　&lt;t7/&gt;(“Steward”).&lt;t8/&gt; &lt;t9/&gt;No one other than the Steward has the right to modify or publish new versions of this Agreement.&lt;t10/&gt; &lt;t11/&gt;Each version will be given a distinguishing version number.&lt;t12/&gt; &lt;t13/&gt;You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You &lt;t14/&gt;originally&lt;t15/&gt; Received the Data, or under the terms of any subsequent version published by the Stewar&lt;t16/&gt;d.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T012200Z" creationid="Takashi　Kunai" creationdate="20171128T085105Z">
-        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Linux Foundation の Community Data License Agreement ワークグループは、&lt;t0/&gt;&lt;t1/&gt;本「契約」の「幹事役」です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「幹事役」以外の誰にも本「契約」を変更したり、新バージョンを発行したりする権利はありません。&lt;t8/&gt;&lt;t9/&gt;各バージョンには、識別のためにバージョン番号を付与されます。&lt;t10/&gt;&lt;t11/&gt;「あなた」は、ここで「受領」した「データ」を「使用」、「公開」するに当たり、「あなた」が初めて「データ」を「受領」した際の「契約」バージョンの条件に基づくこともできますし、あるいは、「幹事役」によって発行された後継バージョンの条件に基づくこともできます。&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021849Z" creationid="Takashi　Kunai" creationdate="20171128T085105Z">
+        <seg>7.5&lt;t0/&gt; &lt;t1/&gt;The Linux Foundation の Community Data License Agreement ワークグループは、&lt;t0/&gt;&lt;t1/&gt;本「契約」の「幹事役」です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;「幹事役」以外の誰にも本「契約」を変更したり、新バージョンを発行したりする権利はありません。&lt;t8/&gt;&lt;t9/&gt;各バージョンには、識別のためにバージョン番号が付与されます。&lt;t10/&gt;&lt;t11/&gt;「あなた」は、ここで「受領」した「データ」を「使用」、「公開」するに当たり、「あなた」が初めて「データ」を「受領」した際の「契約」バージョンの条件に基づくこともできますし、あるいは、「幹事役」によって発行された後継バージョンの条件に基づくこともできます。&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
