@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>(c)&lt;t0/&gt; &lt;t1/&gt;If You Publish Data You Receive, &lt;t2/&gt;You&lt;t3/&gt; must preserve all credit or attribution to the Data Provider(s).&lt;t4/&gt; &lt;t5/&gt;Such retained credit or attribution includes any of the following to the extent they exist in Data as You &lt;t6/&gt;have&lt;t7/&gt; Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T002902Z" creationid="Takashi　Kunai" creationdate="20171128T064718Z">
-        <seg>(c)&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「あなた」が「公開」するならば、「あなた」は、「データ提供者」のクレディットや帰属表示を保持したままにしておかなければなりません。そのようなクレディットや帰属表示は、「あなた」が「受領」したときに「データ」の中で存在している範囲で、以下のいずれかを含むものです。法的な告知、ないしは、メタデータ、「データ提供者」の識別情報、あるいは、実行可能な範囲で「データ」へのハイパーリンク。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021318Z" creationid="Takashi　Kunai" creationdate="20171128T064718Z">
+        <seg>(c)&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「あなた」が「公開」するならば、「あなた」は、「データ提供者」のクレディットや帰属表示を保持したままにしておかなければなりません。そのようなクレディットや帰属表示は、「あなた」が「受領」したときに「データ」の中で存在している範囲で、以下のいずれかを含むものです。法的な告知、ないしは、メタデータ、「データ提供者」の識別情報、あるいは、実用的な範囲で「データ」へのハイパーリンク。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>1.12&lt;t0/&gt; &lt;t1/&gt;“Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights&lt;t2/&gt; &lt;t3/&gt;anywhere in the world.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T084451Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
-        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して1996年3月11日、欧州議会、および、評議会が制定した96/9/EC指令によって規定される、著作権とは別の特別 ( Sui Generis ) 権を意味します。同指令にアデンダムとして追加されたものや後継版、さらには、それ以外の国で定める同等の諸権利も意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021223Z" creationid="Takashi　Kunai" creationdate="20171128T055204Z">
+        <seg>1.12&lt;t0/&gt; &lt;t1/&gt;「データベース権 ( Sui Generis Database Rights )」とは、データベースの法的保護に関して欧州議会、および、評議会が96/9/EC指令 ( 1996年3月11日制定 ) によって規定した、著作権とは別の特別 ( Sui Generis ) 権を意味します。同指令にアデンダムとして追加されたものや後継版、さらには、それ以外の国で定める同等の諸権利も意味します。&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>1.13&lt;t0/&gt; &lt;t1/&gt;“Use” means using Data&lt;t2/&gt; &lt;t3/&gt;(including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it),&lt;t4/&gt; &lt;t5/&gt;either by machines or humans, or a combination of both.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171129T085150Z" creationid="Takashi　Kunai" creationdate="20171128T055359Z">
-        <seg>1.13&lt;t0/&gt; &lt;t1/&gt;「使用」とは、機械ないいしは人間による、または両方の組み合わせによる「データ」の使用を意味し、「データ」を対象としたアクセス、コピー、学習、レビュー、適用、分析、評価、「コンピュータ利用」を含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021233Z" creationid="Takashi　Kunai" creationdate="20171128T055359Z">
+        <seg>1.13&lt;t0/&gt; &lt;t1/&gt;「使用」とは、機械ないしは人間による、または両方の組み合わせによる「データ」の使用を意味し、「データ」を対象としたアクセス、コピー、学習、レビュー、適用、分析、評価、「コンピュータ利用」を含みます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>3.3&lt;t0/&gt; &lt;t1/&gt;If You Publish Data You Receive, You must do so&lt;t2/&gt;　&lt;t3/&gt;under an unmodified form of&lt;t4/&gt; &lt;t5/&gt;this Agreement and include the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.&lt;t6/&gt; &lt;t7/&gt;You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.&lt;t8/&gt;　&lt;t9/&gt;Notices that purport to modify this Agreement shall be of no effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T003148Z" creationid="Takashi　Kunai" creationdate="20171128T065039Z">
-        <seg>3.3&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされるその他の方法を提供しなければなりません。「あなた」は、本「契約」を修正したり、本「契約」のもとで許諾されている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域の制限が挙げられます。本「契約」の変更を意味するような告知は無効です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021358Z" creationid="Takashi　Kunai" creationdate="20171128T065039Z">
+        <seg>3.3&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされるその他の方法を提供しなければなりません。「あなた」は、本「契約」を修正したり、本「契約」のもとで許諾されている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域に制限することが挙げられます。本「契約」の変更を意味するような告知は無効です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="EN-US">
         <seg>4.1&lt;t0/&gt; &lt;t1/&gt;Each&lt;t2/&gt; &lt;t3/&gt;Data Provider&lt;t4/&gt; &lt;t5/&gt;represents that&lt;t6/&gt; &lt;t7/&gt;the Data Provider has exercised reasonable care, to assure that: (a) the Data&lt;t8/&gt; &lt;t9/&gt;it&lt;t10/&gt; Publishes&lt;t11/&gt; &lt;t12/&gt;was created or generated by it or was obtained from others with the right to Publish the&lt;t13/&gt; &lt;t14/&gt;Data under this Agreement; &lt;t15/&gt;and (b) Publication of such Data does not violate any privacy or confidentiality obligation undertaken by the Data Provider.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171128T084009Z" creationid="Takashi　Kunai" creationdate="20171128T084009Z">
-        <seg>各&lt;t0/&gt;&lt;t1/&gt;「データ提供者」は、&lt;t2/&gt;&lt;t3/&gt;「データ提供者」が以下の各項を保証するために相応の注意を払ったことを表明します。&lt;t4/&gt;&lt;t5/&gt; (a) 「公開」した「データ」は、&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;「データ提供者」自身が作成・生成したもの、あるいは、本「契約」のもとで「データ」を「公開」する権利とともに他から得たものであること、&lt;t10/&gt;&lt;t11/&gt; (b) そのような「データ」の「公開」が、「データ提供者」のプライバシー義務や秘密保持義務の違反を発生させることがないこと。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021416Z" creationid="Takashi　Kunai" creationdate="20171128T084009Z">
+        <seg>4.1 各&lt;t0/&gt;&lt;t1/&gt;「データ提供者」は、&lt;t2/&gt;&lt;t3/&gt;「データ提供者」が以下の各項を保証するために相応の注意を払ったことを表明します。&lt;t4/&gt;&lt;t5/&gt; (a) 「公開」した「データ」は、&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;「データ提供者」自身が作成・生成したもの、あるいは、本「契約」のもとで「データ」を「公開」する権利とともに他から得たものであること、&lt;t10/&gt;&lt;t11/&gt; (b) そのような「データ」の「公開」が、「データ提供者」のプライバシー義務や秘密保持義務の違反を発生させることがないこと。</seg>
       </tuv>
     </tu>
     <tu>
