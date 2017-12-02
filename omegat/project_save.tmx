@@ -385,8 +385,8 @@
       <tuv lang="EN-US">
         <seg>6.1&lt;t0/&gt; &lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt; &lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022003Z" creationid="Takashi　Kunai" creationdate="20171128T084511Z">
-        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件も付加されていません。それらの中には、権原、非侵害性、商用性、特定用途への適合性 (これらに限定されるものではありません) に対する保証や条件が含まれます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022421Z" creationid="Takashi　Kunai" creationdate="20171128T084511Z">
+        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 (「拡張データ」を含む) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件も付加されていません。それらの中には、権原、非侵害性、商用性、特定用途への適合性 (これらに限定されるものではありません) に対する保証や条件が含まれます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,8 +401,8 @@
       <tuv lang="EN-US">
         <seg>6.2&lt;t0/&gt; &lt;t1/&gt;NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) &lt;t2/&gt;ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T011952Z" creationid="Takashi　Kunai" creationdate="20171128T084641Z">
-        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的損害、間接的損害、付随的損害、特別損害、懲罰的損害賠償、結果的損害 ( 逸失利益やそれ以外も含めて) に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における ( 過失またはその他を含む ) ものかどうかを問いません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022251Z" creationid="Takashi　Kunai" creationdate="20171128T084641Z">
+        <seg>6.2&lt;t0/&gt; &lt;t1/&gt;当該「データ」の「使用」、ないしは、頒布、あるいは、ここで認められたいずれかの権利の行使から何らかの形で発生した損害は、たとえそのような損害の可能性が警告されていたとしても、「あなた」や「データ提供者」は、いかなる直接的損害、間接的損害、付随的損害、特別損害、懲罰的損害賠償、結果的損害 (逸失利益やそれ以外も含めて) に対して何らの賠償責任を負いません。いかに発生したか、また、賠償責任に対する考え方、さらには、契約、無過失責任、あるいは、不法行為における (過失またはその他を含む) ものかどうかを問いません。</seg>
       </tuv>
     </tu>
     <tu>
