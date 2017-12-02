@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>3.3&lt;t0/&gt; &lt;t1/&gt;If You Publish Data You Receive, You must do so&lt;t2/&gt;　&lt;t3/&gt;under an unmodified form of&lt;t4/&gt; &lt;t5/&gt;this Agreement and include the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.&lt;t6/&gt; &lt;t7/&gt;You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.&lt;t8/&gt;　&lt;t9/&gt;Notices that purport to modify this Agreement shall be of no effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T021358Z" creationid="Takashi　Kunai" creationdate="20171128T065039Z">
-        <seg>3.3&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされるその他の方法を提供しなければなりません。「あなた」は、本「契約」を修正したり、本「契約」のもとで許諾されている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 ( 「あなた」の「拡張データ」も含む ) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域に制限することが挙げられます。本「契約」の変更を意味するような告知は無効です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022117Z" creationid="Takashi　Kunai" creationdate="20171128T065039Z">
+        <seg>3.3&lt;t0/&gt; &lt;t1/&gt;もしも「あなた」が「受領」した「データ」を「公開」するなら、「あなた」は無修正の本「契約」のもとでそれを行い、かつ、本「契約」文、本「契約」の名称、あるいは・および、ハイパーリンク、または、本「契約」文のコピーを提供するのに適切とみなされるその他の方法を提供しなければなりません。「あなた」は、本「契約」を修正したり、本「契約」のもとで許諾されている権利行使に対し、いかなる追加的な制約を課したりすることはできません。 そのような制約の例としては、商用目的、あるいは、非商用目的での「データ」 (「あなた」の「拡張データ」も含む) 「使用」に対する制約を追加することや、あるいは、そのような「データ」の許可された「使用」を特定のプラットフォフォーム、テクノロジー、あるいは、適用領域に制限することが挙げられます。本「契約」の変更を意味するような告知は無効です。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,16 +377,16 @@
       <tuv lang="EN-US">
         <seg>5.2&lt;t0/&gt; &lt;t1/&gt;If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the&lt;t2/&gt; &lt;t3/&gt;Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate&lt;t4/&gt; &lt;t5/&gt;as of the date such litigation is filed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T003648Z" creationid="Takashi　Kunai" creationdate="20171128T084230Z">
-        <seg>5.2 もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかを提訴 ( 交差請求訴訟を含む ) すると、本「契約」への違反を確認する提訴を除き、本「契約」に基づいて「あなた」に許諾されていた「データ」を「受領」、「使用」、「公開」する諸権利は、提訴が提出された日をもって終了します。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022034Z" creationid="Takashi　Kunai" creationdate="20171128T084230Z">
+        <seg>5.2 もしも「あなた」が、当該「データ」に基づいて「データ提供者」、あるいは、「データ」を「受領」した他のだれかを提訴 (交差請求訴訟を含む) すると、本「契約」への違反を確認する提訴を除き、本「契約」に基づいて「あなた」に許諾されていた「データ」を「受領」、「使用」、「公開」する諸権利は、提訴が提出された日をもって終了します。&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>6.1&lt;t0/&gt; &lt;t1/&gt;EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA&lt;t2/&gt; &lt;t3/&gt;(INCLUDING&lt;t4/&gt; &lt;t5/&gt;ENHANCED DATA)&lt;t6/&gt;　&lt;t7/&gt;IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T005624Z" creationid="Takashi　Kunai" creationdate="20171128T084511Z">
-        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件も付加されていません。それらの中には、権原、非侵害性、商用性、特定用途への適合性 ( これらに限定されるものではありません ) に対する保証や条件が含まれます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20171202T022003Z" creationid="Takashi　Kunai" creationdate="20171128T084511Z">
+        <seg>6.1&lt;t0/&gt; &lt;t1/&gt;本「契約」の中で明示的に定められているものを除き、当該「データ」 ( 「拡張データ」を含む ) &lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;は、現状あるがままの状態で提供され、明示的にも、暗黙にも、いかなる種類の保証や条件も付加されていません。それらの中には、権原、非侵害性、商用性、特定用途への適合性 (これらに限定されるものではありません) に対する保証や条件が含まれます。&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
